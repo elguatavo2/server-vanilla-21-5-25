@@ -180,3 +180,11 @@ java.lang.IllegalStateException: zip file closed
 [00:53:18] [Server thread/INFO]: elguatavo7u7159 issued server command: /tp ThiaguitoOwO2021 elguatavo7u7159
 [00:53:18] [Server thread/INFO]: [elguatavo7u7159: Teleported ThiaguitoOwO2021 to elguatavo7u7159]
 [00:55:32] [Async Chat Thread - #0/INFO]: [Not Secure] <ThiaguitoOwO2021> keso
+[01:07:01] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Timed out
+[01:07:01] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[01:07:47] [User Authenticator #3/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[01:07:48] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[01:07:48] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:49053] logged in with entity id 2364 at ([world]20.39778803603661, 64.0, 93.64357915339693)
+[01:08:51] [Craft Scheduler Thread - 82 - GrimAC/INFO]: [GrimAC] Disconnecting ThiaguitoOwO2021 for disconnect.timeout
+[01:08:51] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[01:08:51] [Server thread/INFO]: ThiaguitoOwO2021 left the game
