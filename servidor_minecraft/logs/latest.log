@@ -182,3 +182,9 @@ java.lang.IllegalStateException: zip file closed
 [00:58:06] [User Authenticator #2/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
 [00:58:07] [Server thread/INFO]: elguatavo7u7159 joined the game
 [00:58:07] [Server thread/INFO]: elguatavo7u7159[/127.199.246.16:57559] logged in with entity id 4055 at ([world]500.33097418192966, 16.0, 195.70999903732914)
+[01:08:20] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[01:08:20] [Server thread/INFO]: elguatavo7u7159 left the game
+[01:08:32] [User Authenticator #3/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[01:08:33] [Server thread/INFO]: elguatavo7u7159 joined the game
+[01:08:33] [Server thread/INFO]: elguatavo7u7159[/127.199.246.16:56399] logged in with entity id 8069 at ([world]565.2644977670684, 63.0, 37.68519248941895)
+[01:13:39] [Server thread/INFO]: Villager Villager['Villager'/9584, uuid='35dd5181-28d1-489c-9ae6-91a17ad5b70b', l='ServerLevel[world]', x=50.27, y=64.00, z=76.53, cpos=[3, 4], tl=24225, v=true] died, message: 'Villager suffocated in a wall'
