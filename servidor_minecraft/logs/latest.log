@@ -224,3 +224,44 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.removePo
 [23:39:25] [User Authenticator #4/INFO]: UUID of player P3G3L4G4T0 is 48ad506e-a874-3564-ac84-6a33a672e4a5
 [23:39:27] [Server thread/INFO]: P3G3L4G4T0 joined the game
 [23:39:27] [Server thread/INFO]: P3G3L4G4T0[/127.126.92.91:59129] logged in with entity id 1219 at ([world]-9.29731823773965, 68.0000001, -2.0027006424577527)
+[23:40:16] [Server thread/INFO]: P3G3L4G4T0 lost connection: Timed out
+[23:40:16] [Server thread/INFO]: P3G3L4G4T0 left the game
+[23:41:09] [User Authenticator #5/INFO]: UUID of player P3G3L4G4T0 is 48ad506e-a874-3564-ac84-6a33a672e4a5
+[23:41:10] [Server thread/INFO]: P3G3L4G4T0 joined the game
+[23:41:10] [Server thread/INFO]: P3G3L4G4T0[/127.126.92.91:34297] logged in with entity id 1415 at ([world]-9.300538347151898, 68.0000001, -1.9621986090167625)
+[23:41:55] [Netty Epoll Server IO #2/INFO]: [GrimAC] Disconnecting P3G3L4G4T0 for spamming invalid packets, packets cancelled within a second 101
+[23:41:55] [Netty Epoll Server IO #2/INFO]: [GrimAC] Disconnecting P3G3L4G4T0 for disconnect.closed
+[23:41:55] [Server thread/INFO]: P3G3L4G4T0 lost connection: disconnect.closed
+[23:41:56] [Server thread/INFO]: P3G3L4G4T0 left the game
+[23:43:04] [Server thread/INFO]: elguatavo7u7159 issued server command: /logout
+[23:43:24] [User Authenticator #6/INFO]: UUID of player P3G3L4G4T0 is 48ad506e-a874-3564-ac84-6a33a672e4a5
+[23:43:25] [Server thread/INFO]: P3G3L4G4T0 joined the game
+[23:43:25] [Server thread/INFO]: P3G3L4G4T0[/127.126.92.91:40825] logged in with entity id 1646 at ([world]-9.300538347151898, 68.00000029999998, -1.9621986090167625)
+[23:45:38] [Netty Epoll Server IO #0/INFO]: [GrimAC] Disconnecting P3G3L4G4T0 for spamming invalid packets, packets cancelled within a second 101
+[23:45:38] [Netty Epoll Server IO #0/INFO]: [GrimAC] Disconnecting P3G3L4G4T0 for disconnect.closed
+[23:45:38] [Server thread/INFO]: P3G3L4G4T0 lost connection: disconnect.closed
+[23:45:38] [Server thread/INFO]: P3G3L4G4T0 left the game
+[23:45:50] [User Authenticator #7/INFO]: UUID of player P3G3L4G4T0 is 48ad506e-a874-3564-ac84-6a33a672e4a5
+[23:45:53] [Server thread/INFO]: P3G3L4G4T0 joined the game
+[23:45:53] [Server thread/INFO]: P3G3L4G4T0[/127.126.92.91:48845] logged in with entity id 1971 at ([world]84.81656893646233, 64.0, 85.30000001192093)
+[23:46:16] [Netty Epoll Server IO #0/INFO]: [GrimAC] Disconnecting P3G3L4G4T0 for spamming invalid packets, packets cancelled within a second 101
+[23:46:16] [Netty Epoll Server IO #0/INFO]: [GrimAC] Disconnecting P3G3L4G4T0 for disconnect.closed
+[23:46:16] [Server thread/INFO]: P3G3L4G4T0 lost connection: disconnect.closed
+[23:46:17] [Server thread/INFO]: P3G3L4G4T0 left the game
+[23:46:26] [User Authenticator #7/INFO]: UUID of player P3G3L4G4T0 is 48ad506e-a874-3564-ac84-6a33a672e4a5
+[23:46:34] [Server thread/INFO]: P3G3L4G4T0 joined the game
+[23:46:34] [Server thread/INFO]: P3G3L4G4T0[/127.126.92.91:55495] logged in with entity id 2028 at ([world]82.77777368593577, 64.0, 85.30000001192093)
+[23:46:39] [Server thread/INFO]: Villager Villager['Villager'/15, uuid='9ea41bf0-bc58-4da4-b4da-d296ee4e8ee8', l='ServerLevel[world]', x=49.17, y=64.00, z=76.47, cpos=[3, 4], tl=24191, v=true] died, message: 'Villager suffocated in a wall'
+[23:48:45] [Server thread/INFO]: P3G3L4G4T0 lost connection: Disconnected
+[23:48:45] [Server thread/INFO]: P3G3L4G4T0 left the game
+[23:49:03] [User Authenticator #8/INFO]: UUID of player P3G3L4G4T0 is 48ad506e-a874-3564-ac84-6a33a672e4a5
+[23:49:04] [Server thread/INFO]: P3G3L4G4T0 joined the game
+[23:49:04] [Server thread/INFO]: P3G3L4G4T0[/127.126.92.91:48755] logged in with entity id 2313 at ([world]82.77777368593577, 64.00000019999999, 85.30000001192093)
+[23:49:16] [Netty Epoll Server IO #1/INFO]: [GrimAC] Disconnecting P3G3L4G4T0 for spamming invalid packets, packets cancelled within a second 101
+[23:49:16] [Netty Epoll Server IO #1/INFO]: [GrimAC] Disconnecting P3G3L4G4T0 for disconnect.closed
+[23:49:16] [Server thread/INFO]: P3G3L4G4T0 lost connection: disconnect.closed
+[23:49:16] [Server thread/INFO]: P3G3L4G4T0 left the game
+[23:49:31] [User Authenticator #8/INFO]: UUID of player P3G3L4G4T0 is 48ad506e-a874-3564-ac84-6a33a672e4a5
+[23:49:42] [Server thread/INFO]: P3G3L4G4T0 joined the game
+[23:49:42] [Server thread/INFO]: P3G3L4G4T0[/127.126.92.91:40261] logged in with entity id 2359 at ([world]82.77777368593577, 64.0000001, 85.30000001192093)
+[23:49:44] [Server thread/INFO]: elguatavo7u7159 issued server command: /lac changepass P3G3L4G4T0 papa1234
