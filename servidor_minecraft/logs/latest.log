@@ -1,92 +1,92 @@
-[00:38:41] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[00:38:41] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[00:38:42] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[00:38:48] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
-[00:38:48] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+[23:29:48] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[23:29:48] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[23:29:48] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[23:29:50] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[23:29:50] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
  - Geyser-Spigot (2.7.1-SNAPSHOT), GrimAC (2.3.69), LoginSecurity (3.3.0), SkinsRestorer (15.6.3), StaffPlus (3.3.14.2), ViaBackwards (5.3.2), ViaRewind (4.0.7), ViaVersion (5.3.2), floodgate (2.2.4-SNAPSHOT (b116-0e3163c))
-[00:38:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:39:02] [ServerMain/INFO]: Loaded 1337 recipes
-[00:39:02] [ServerMain/INFO]: Loaded 1448 advancements
-[00:39:03] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[00:39:03] [Server thread/INFO]: Loading properties
-[00:39:03] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[00:39:05] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[00:39:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:39:06] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:39:07] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[00:39:07] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[00:39:09] [Server thread/INFO]: Default game type: SURVIVAL
-[00:39:09] [Server thread/INFO]: Generating keypair
-[00:39:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:39:11] [Server thread/INFO]: Using epoll channel type
-[00:39:11] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:39:11] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[00:39:12] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.2
-[00:39:12] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
-[00:39:14] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[00:39:15] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[00:39:15] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[00:39:15] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[00:39:17] [Server thread/INFO]: [ViaRewind] Registering protocols...
-[00:39:17] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[00:39:19] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[00:39:19] [Server thread/INFO]: [floodgate] Took 1,782ms to boot Floodgate
-[00:39:19] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.3.2
-[00:39:19] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.7.1-SNAPSHOT
-[00:39:20] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[00:39:20] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[00:39:20] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.7
-[00:39:20] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
-[00:39:20] [Server thread/INFO]: [StaffPlus] Loading server plugin StaffPlus v3.3.14.2
-[00:39:20] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.3
-[00:39:20] [Server thread/INFO]: [GrimAC] Loading server plugin GrimAC v2.3.69
-[00:39:20] [Server thread/INFO]: [GrimAC] Loading PacketEvents...
-[00:39:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:39:26] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.7
-[00:39:26] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.3
-[00:39:29] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
-[00:39:29] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[00:39:30] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[00:39:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:39:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:39:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:39:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:39:30] [Server thread/INFO]: Preparing level "world"
-[00:39:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:39:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:39:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[00:39:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[00:39:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[00:39:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:39:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:39:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.3
-[00:39:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eb6dc6
-[00:39:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[00:39:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:39:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[00:39:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[00:39:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:39:31] [Server thread/INFO]: Time elapsed: 2 ms
-[00:39:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:39:31] [Server thread/INFO]: Time elapsed: 0 ms
-[00:39:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:39:31] [Server thread/INFO]: Time elapsed: 0 ms
-[00:39:31] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
-[00:39:31] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.2-1.21.3 (768)
-[00:39:31] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[00:39:32] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.2
-[00:39:33] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.7.1-SNAPSHOT
-[00:39:33] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[00:39:33] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[00:39:33] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[00:39:34] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[00:39:34] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[00:39:34] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[00:39:34] [Server thread/INFO]: [StaffPlus] Enabling StaffPlus v3.3.14.2
-[00:39:35] [Server thread/INFO]: [Staff+] This version of Minecraft is not supported! If you have just updated to a brand new server version, check the Spigot plugin page.
-[00:39:35] [Server thread/INFO]: [StaffPlus] Disabling StaffPlus v3.3.14.2
-[00:39:35] [Server thread/INFO]: [Staff+] Staff+ is now disabling!
-[00:39:35] [Server thread/ERROR]: Error occurred while disabling StaffPlus v3.3.14.2
+[23:29:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:30:05] [ServerMain/INFO]: Loaded 1337 recipes
+[23:30:05] [ServerMain/INFO]: Loaded 1448 advancements
+[23:30:06] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[23:30:06] [Server thread/INFO]: Loading properties
+[23:30:06] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[23:30:07] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[23:30:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:30:07] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:30:10] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[23:30:10] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[23:30:11] [Server thread/INFO]: Default game type: SURVIVAL
+[23:30:11] [Server thread/INFO]: Generating keypair
+[23:30:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:30:11] [Server thread/INFO]: Using epoll channel type
+[23:30:12] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:30:12] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[23:30:14] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.2
+[23:30:14] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
+[23:30:15] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[23:30:16] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[23:30:16] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[23:30:16] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[23:30:18] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[23:30:18] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[23:30:20] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[23:30:20] [Server thread/INFO]: [floodgate] Took 1,885ms to boot Floodgate
+[23:30:20] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.3.2
+[23:30:20] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.7.1-SNAPSHOT
+[23:30:22] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[23:30:22] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[23:30:22] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.7
+[23:30:22] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[23:30:22] [Server thread/INFO]: [StaffPlus] Loading server plugin StaffPlus v3.3.14.2
+[23:30:22] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.3
+[23:30:22] [Server thread/INFO]: [GrimAC] Loading server plugin GrimAC v2.3.69
+[23:30:23] [Server thread/INFO]: [GrimAC] Loading PacketEvents...
+[23:30:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:30:30] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.7
+[23:30:30] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.3
+[23:30:32] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[23:30:33] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[23:30:34] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[23:30:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:30:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:30:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:30:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:30:34] [Server thread/INFO]: Preparing level "world"
+[23:30:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:30:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:30:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[23:30:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[23:30:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[23:30:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:30:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:30:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.3
+[23:30:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eb6dc6
+[23:30:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[23:30:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:30:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[23:30:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[23:30:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:30:35] [Server thread/INFO]: Time elapsed: 9 ms
+[23:30:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:30:35] [Server thread/INFO]: Time elapsed: 1 ms
+[23:30:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:30:35] [Server thread/INFO]: Time elapsed: 0 ms
+[23:30:35] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
+[23:30:35] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.2-1.21.3 (768)
+[23:30:35] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[23:30:37] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.2
+[23:30:37] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.7.1-SNAPSHOT
+[23:30:37] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[23:30:37] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[23:30:37] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[23:30:38] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[23:30:38] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[23:30:38] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[23:30:38] [Server thread/INFO]: [StaffPlus] Enabling StaffPlus v3.3.14.2
+[23:30:39] [Server thread/INFO]: [Staff+] This version of Minecraft is not supported! If you have just updated to a brand new server version, check the Spigot plugin page.
+[23:30:39] [Server thread/INFO]: [StaffPlus] Disabling StaffPlus v3.3.14.2
+[23:30:39] [Server thread/INFO]: [Staff+] Staff+ is now disabling!
+[23:30:39] [Server thread/ERROR]: Error occurred while disabling StaffPlus v3.3.14.2
 java.lang.NullPointerException: Cannot invoke "net.shortninja.staffplus.server.hook.HookHandler.disableAll()" because "this.hookHandler" is null
 	at Staff+.jar/net.shortninja.staffplus.StaffPlus.stop(StaffPlus.java:410) ~[Staff+.jar:?]
 	at Staff+.jar/net.shortninja.staffplus.StaffPlus.onDisable(StaffPlus.java:171) ~[Staff+.jar:?]
@@ -108,7 +108,7 @@ java.lang.NullPointerException: Cannot invoke "net.shortninja.staffplus.server.h
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1234) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[00:39:35] [Server thread/ERROR]: Error occurred while enabling StaffPlus v3.3.14.2 (Is it up to date?)
+[23:30:39] [Server thread/ERROR]: Error occurred while enabling StaffPlus v3.3.14.2 (Is it up to date?)
 java.lang.IllegalStateException: zip file closed
 	at java.base/java.util.zip.ZipFile.ensureOpen(ZipFile.java:846) ~[?:?]
 	at java.base/java.util.zip.ZipFile.getEntry(ZipFile.java:338) ~[?:?]
@@ -132,113 +132,95 @@ java.lang.IllegalStateException: zip file closed
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1234) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[00:39:35] [Server thread/INFO]: [GrimAC] Enabling GrimAC v2.3.69
-[00:39:35] [Server thread/INFO]: [GrimAC] Registering singular bukkit event... (PistonEvent)
-[00:39:35] [Server thread/INFO]: [GrimAC] Registering packets...
-[00:39:35] [Server thread/INFO]: [GrimAC] Registering tick schedulers...
-[00:39:35] [Server thread/INFO]: [GrimAC] [ACF] Enabled Asynchronous Tab Completion Support!
-[00:39:36] [Server thread/INFO]: Grim Version: 2.3.69
-[00:39:36] [Server thread/ERROR]: [GrimAC] GrimAC has detected that you are using ViaVersion with the `fix-1_21-placement-rotation` option enabled.
-[00:39:36] [Server thread/ERROR]: [GrimAC] This option is known to cause issues with GrimAC and may result in false positives and bypasses.
-[00:39:36] [Server thread/ERROR]: [GrimAC] Please disable this option in your ViaVersion configuration to prevent these issues.
-[00:39:36] [Server thread/WARN]: [GrimAC] GrimAC has detected that you have installed ViaBackwards on a 1.21.2+ server.
-[00:39:36] [Server thread/WARN]: [GrimAC] This setup is currently unsupported and you will experience issues with older clients using vehicles.
-[00:39:37] [Server thread/INFO]: [spark] Starting background profiler...
-[00:39:39] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[00:39:39] [Server thread/INFO]: [Geyser-Spigot] 
-[00:39:39] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.7.1-b830 (git-master-472ed8c)
-[00:39:39] [Server thread/INFO]: [Geyser-Spigot] 
-[00:39:39] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[00:39:56] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 1189
-[00:39:56] [Server thread/INFO]: [Geyser-Spigot] Done (16.472s)! Run /geyser help for help!
-[00:39:57] [Server thread/INFO]: Done preparing level "world" (27.042s)
-[00:39:57] [Server thread/INFO]: Running delayed init tasks
-[00:39:57] [Server thread/INFO]: Done (79.632s)! For help, type "help"
-[00:39:57] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[00:39:58] [Server thread/INFO]: elguatavo7u7159 (/127.199.246.16:57545) lost connection: Disconnected
-[00:39:58] [Craft Scheduler Thread - 8 - GrimAC/INFO]: New GrimAC version found! Version 2.3.71 is available to be downloaded here: https://modrinth.com/plugin/grimac
-[00:39:58] [User Authenticator #0/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
-[00:40:06] [User Authenticator #0/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
-[00:40:09] [Server thread/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[00:40:10] [Server thread/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 749.5ms
-[00:40:11] [Server thread/INFO]: elguatavo7u7159 joined the game
-[00:40:11] [Server thread/INFO]: elguatavo7u7159[/127.199.246.16:45313] logged in with entity id 1 at ([world]35.406313981882796, 63.9375, 87.08591251451273)
-[00:40:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3683ms or 73 ticks behind
-[00:40:40] [User Authenticator #0/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
-[00:40:42] [Server thread/INFO]: MrCreeper_143 joined the game
-[00:40:42] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:60983] logged in with entity id 291 at ([world]4.5, 68.0, 9.5)
-[00:42:38] [Server thread/INFO]: MrCreeper_143 lost connection: Timed out
-[00:42:38] [Server thread/INFO]: MrCreeper_143 left the game
-[00:43:11] [User Authenticator #1/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
-[00:43:13] [Server thread/INFO]: MrCreeper_143 joined the game
-[00:43:13] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:59183] logged in with entity id 616 at ([world]21.05029605072747, 73.25220334025373, 42.88927572427875)
-[00:44:33] [Server thread/INFO]: MrCreeper_143 has made the advancement [Stone Age]
-[00:44:58] [Server thread/INFO]: MrCreeper_143 has made the advancement [Getting an Upgrade]
-[00:45:29] [Server thread/INFO]: MrCreeper_143 has made the advancement [Acquire Hardware]
-[00:45:33] [Server thread/INFO]: MrCreeper_143 has made the advancement [Sweet Dreams]
-[00:57:26] [Async Chat Thread - #1/INFO]: [Not Secure] <MrCreeper_143> ZZZ
-[00:57:31] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
-[00:57:31] [Server thread/INFO]: elguatavo7u7159 left the game
-[00:58:06] [User Authenticator #2/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
-[00:58:07] [Server thread/INFO]: elguatavo7u7159 joined the game
-[00:58:07] [Server thread/INFO]: elguatavo7u7159[/127.199.246.16:57559] logged in with entity id 4055 at ([world]500.33097418192966, 16.0, 195.70999903732914)
-[01:08:20] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
-[01:08:20] [Server thread/INFO]: elguatavo7u7159 left the game
-[01:08:32] [User Authenticator #3/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
-[01:08:33] [Server thread/INFO]: elguatavo7u7159 joined the game
-[01:08:33] [Server thread/INFO]: elguatavo7u7159[/127.199.246.16:56399] logged in with entity id 8069 at ([world]565.2644977670684, 63.0, 37.68519248941895)
-[01:13:39] [Server thread/INFO]: Villager Villager['Villager'/9584, uuid='35dd5181-28d1-489c-9ae6-91a17ad5b70b', l='ServerLevel[world]', x=50.27, y=64.00, z=76.53, cpos=[3, 4], tl=24225, v=true] died, message: 'Villager suffocated in a wall'
-[01:19:06] [Server thread/INFO]: MrCreeper_143 has made the advancement [Isn't It Iron Pick]
-[01:20:18] [Server thread/INFO]: MrCreeper_143 fell from a high place
-[01:23:24] [Server thread/INFO]: Stopping the server
-[01:23:24] [Server thread/INFO]: Stopping server
-[01:23:24] [Server thread/INFO]: [GrimAC] Disabling GrimAC v2.3.69
-[01:23:24] [Server thread/INFO]: [GrimAC] Terminating PacketEvents...
-[01:23:24] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.3
-[01:23:24] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
-[01:23:24] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
-[01:23:24] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
-[01:23:24] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.7
-[01:23:24] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.7.1-SNAPSHOT
-[01:23:24] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[01:23:24] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[01:23:24] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.2
-[01:23:24] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[01:23:24] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
-[01:23:24] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[01:23:24] [Server thread/INFO]: Saving players
-[01:23:24] [Server thread/INFO]: elguatavo7u7159 lost connection: Server closed
-[01:23:24] [WebSocketConnectReadThread-392/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[01:23:24] [Server thread/INFO]: elguatavo7u7159 left the game
-[01:23:24] [Server thread/INFO]: MrCreeper_143 lost connection: Server closed
-[01:23:24] [Server thread/INFO]: MrCreeper_143 left the game
-[01:23:24] [Server thread/INFO]: Saving worlds
-[01:23:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:23:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[01:23:24] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[01:23:24] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[01:23:24] [Server thread/INFO]: [ChunkHolderManager] Saved 59 block chunks, 298 entity chunks, 1 poi chunks in world 'world' in 0.26s
-[01:23:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[01:23:24] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[01:23:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:23:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[01:23:24] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[01:23:24] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[01:23:24] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[01:23:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[01:23:24] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[01:23:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:23:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[01:23:24] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[01:23:24] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[01:23:24] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[01:23:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[01:23:24] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[01:23:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:23:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:23:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:23:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[01:23:24] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[01:23:25] [Server thread/INFO]: All I/O tasks to complete
-[01:23:25] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[01:23:25] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[23:30:39] [Server thread/INFO]: [GrimAC] Enabling GrimAC v2.3.69
+[23:30:39] [Server thread/INFO]: [GrimAC] Registering singular bukkit event... (PistonEvent)
+[23:30:39] [Server thread/INFO]: [GrimAC] Registering packets...
+[23:30:39] [Server thread/INFO]: [GrimAC] Registering tick schedulers...
+[23:30:40] [Server thread/INFO]: [GrimAC] [ACF] Enabled Asynchronous Tab Completion Support!
+[23:30:41] [Server thread/INFO]: Grim Version: 2.3.69
+[23:30:41] [Server thread/ERROR]: [GrimAC] GrimAC has detected that you are using ViaVersion with the `fix-1_21-placement-rotation` option enabled.
+[23:30:41] [Server thread/ERROR]: [GrimAC] This option is known to cause issues with GrimAC and may result in false positives and bypasses.
+[23:30:41] [Server thread/ERROR]: [GrimAC] Please disable this option in your ViaVersion configuration to prevent these issues.
+[23:30:41] [Server thread/WARN]: [GrimAC] GrimAC has detected that you have installed ViaBackwards on a 1.21.2+ server.
+[23:30:41] [Server thread/WARN]: [GrimAC] This setup is currently unsupported and you will experience issues with older clients using vehicles.
+[23:30:41] [Server thread/INFO]: [spark] Starting background profiler...
+[23:30:42] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[23:30:42] [Server thread/INFO]: [Geyser-Spigot] 
+[23:30:42] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.7.1-b830 (git-master-472ed8c)
+[23:30:42] [Server thread/INFO]: [Geyser-Spigot] 
+[23:30:42] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[23:30:57] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on UDP port 1189
+[23:30:57] [Server thread/INFO]: [Geyser-Spigot] Done (15.206s)! Run /geyser help for help!
+[23:30:58] [Server thread/INFO]: Done preparing level "world" (24.164s)
+[23:30:58] [Server thread/INFO]: Running delayed init tasks
+[23:30:58] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[23:30:58] [Server thread/INFO]: Done (73.110s)! For help, type "help"
+[23:30:59] [User Authenticator #0/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[23:30:59] [Craft Scheduler Thread - 5 - GrimAC/INFO]: New GrimAC version found! Version 2.3.71 is available to be downloaded here: https://modrinth.com/plugin/grimac
+[23:31:01] [Server thread/INFO]: elguatavo7u7159 (/127.89.24.95:59231) lost connection: Disconnected
+[23:31:38] [User Authenticator #0/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[23:31:40] [Server thread/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[23:31:40] [Server thread/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 622.4ms
+[23:31:41] [Server thread/INFO]: elguatavo7u7159 joined the game
+[23:31:41] [Server thread/INFO]: elguatavo7u7159[/127.89.24.95:43953] logged in with entity id 2 at ([world]46.99930611051304, 68.0, 59.073065574659566)
+[23:33:10] [User Authenticator #1/INFO]: UUID of player P3G3L4G4T0 is 48ad506e-a874-3564-ac84-6a33a672e4a5
+[23:33:15] [Server thread/INFO]: P3G3L4G4T0 joined the game
+[23:33:15] [Server thread/INFO]: P3G3L4G4T0[/127.126.92.91:53175] logged in with entity id 387 at ([world]-5.5, 68.0, -4.5)
+[23:34:05] [Server thread/INFO]: P3G3L4G4T0 lost connection: Disconnected
+[23:34:05] [Server thread/INFO]: P3G3L4G4T0 left the game
+[23:34:25] [User Authenticator #2/INFO]: UUID of player P3G3L4G4T0 is 48ad506e-a874-3564-ac84-6a33a672e4a5
+[23:34:26] [Server thread/INFO]: P3G3L4G4T0 joined the game
+[23:34:26] [Server thread/INFO]: P3G3L4G4T0[/127.126.92.91:48797] logged in with entity id 629 at ([world]-5.5, 68.0, -4.5)
+[23:35:16] [Server thread/INFO]: P3G3L4G4T0 lost connection: Timed out
+[23:35:16] [Server thread/INFO]: P3G3L4G4T0 left the game
+[23:35:25] [User Authenticator #3/INFO]: UUID of player P3G3L4G4T0 is 48ad506e-a874-3564-ac84-6a33a672e4a5
+[23:35:29] [Server thread/INFO]: P3G3L4G4T0 joined the game
+[23:35:29] [Server thread/INFO]: P3G3L4G4T0[/127.126.92.91:42461] logged in with entity id 745 at ([world]-9.147792545647857, 68.0, -2.611513966856537)
+[23:36:47] [Server thread/INFO]: P3G3L4G4T0 lost connection: Disconnected
+[23:36:47] [Server thread/INFO]: P3G3L4G4T0 left the game
+[23:37:10] [User Authenticator #4/INFO]: UUID of player P3G3L4G4T0 is 48ad506e-a874-3564-ac84-6a33a672e4a5
+[23:37:13] [Server thread/INFO]: P3G3L4G4T0 joined the game
+[23:37:13] [Server thread/INFO]: P3G3L4G4T0[/127.126.92.91:57583] logged in with entity id 966 at ([world]-9.29731823773965, 68.0000001, -2.0027006424577527)
+[23:37:22] [Server thread/INFO]: elguatavo7u7159 issued server command: /skin set goku
+[23:37:34] [Netty Epoll Server IO #0/INFO]: [GrimAC] Disconnecting P3G3L4G4T0 for spamming invalid packets, packets cancelled within a second 101
+[23:37:34] [Netty Epoll Server IO #0/INFO]: [GrimAC] Disconnecting P3G3L4G4T0 for disconnect.closed
+[23:37:34] [Server thread/INFO]: P3G3L4G4T0 lost connection: disconnect.closed
+[23:37:34] [Server thread/INFO]: P3G3L4G4T0 left the game
+[23:37:34] [Craft Scheduler Thread - 33 - LoginSecurity/WARN]: [LoginSecurity] Plugin LoginSecurity v3.3.0 generated an exception while executing task 525
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getAddress()" because the return value of "com.lenis0012.bukkit.loginsecurity.session.PlayerSession.getPlayer()" is null
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.session.action.LoginAction.run(LoginAction.java:30) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.session.PlayerSession.performAction(PlayerSession.java:169) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.commands.CommandLogin.lambda$execute$1(CommandLogin.java:67) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.21.3.jar:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[23:37:34] [Server thread/WARN]: [LoginSecurity] Task #527 for LoginSecurity v3.3.0 generated an exception
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.removePotionEffect(org.bukkit.potion.PotionEffectType)" because "player" is null
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.session.AuthAction.lambda$rehabPlayer$0(AuthAction.java:52) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[23:37:49] [User Authenticator #4/INFO]: UUID of player P3G3L4G4T0 is 48ad506e-a874-3564-ac84-6a33a672e4a5
+[23:37:51] [Server thread/INFO]: P3G3L4G4T0 joined the game
+[23:37:51] [Server thread/INFO]: P3G3L4G4T0[/127.126.92.91:46021] logged in with entity id 1056 at ([world]-9.29731823773965, 68.0000001, -2.0027006424577527)
+[23:38:22] [Netty Epoll Server IO #0/INFO]: [GrimAC] Disconnecting P3G3L4G4T0 for spamming invalid packets, packets cancelled within a second 101
+[23:38:22] [Netty Epoll Server IO #0/INFO]: [GrimAC] Disconnecting P3G3L4G4T0 for disconnect.closed
+[23:38:22] [Server thread/INFO]: P3G3L4G4T0 lost connection: disconnect.closed
+[23:38:22] [Server thread/INFO]: P3G3L4G4T0 left the game
+[23:38:33] [User Authenticator #4/INFO]: UUID of player P3G3L4G4T0 is 48ad506e-a874-3564-ac84-6a33a672e4a5
+[23:38:34] [Server thread/INFO]: P3G3L4G4T0 joined the game
+[23:38:34] [Server thread/INFO]: P3G3L4G4T0[/127.126.92.91:48569] logged in with entity id 1140 at ([world]-9.29731823773965, 68.0000001, -2.0027006424577527)
+[23:39:01] [Netty Epoll Server IO #1/INFO]: [GrimAC] Disconnecting P3G3L4G4T0 for spamming invalid packets, packets cancelled within a second 101
+[23:39:01] [Netty Epoll Server IO #1/INFO]: [GrimAC] Disconnecting P3G3L4G4T0 for disconnect.closed
+[23:39:01] [Server thread/INFO]: P3G3L4G4T0 lost connection: disconnect.closed
+[23:39:02] [Server thread/INFO]: P3G3L4G4T0 left the game
+[23:39:25] [User Authenticator #4/INFO]: UUID of player P3G3L4G4T0 is 48ad506e-a874-3564-ac84-6a33a672e4a5
+[23:39:27] [Server thread/INFO]: P3G3L4G4T0 joined the game
+[23:39:27] [Server thread/INFO]: P3G3L4G4T0[/127.126.92.91:59129] logged in with entity id 1219 at ([world]-9.29731823773965, 68.0000001, -2.0027006424577527)
