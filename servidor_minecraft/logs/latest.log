@@ -215,3 +215,7 @@ java.lang.IllegalStateException: zip file closed
 [02:31:27] [Server thread/INFO]: Villager Villager['Villager'/254, uuid='946cf5e1-fd20-447a-8eff-f37810d183fd', l='ServerLevel[world]', x=48.33, y=64.30, z=76.31, cpos=[3, 4], tl=24202, v=true] died, message: 'Villager suffocated in a wall'
 [02:38:12] [Server thread/INFO]: c_Benji0w0 has made the advancement [Not Today, Thank You]
 [02:40:25] [Server thread/INFO]: tivi0400 was slain by Zombie
+[02:41:58] [Server thread/INFO]: c_Benji0w0 has made the advancement [Take Aim]
+[02:45:15] [Server thread/WARN]: Player tivi0400 just tried to change non-editable sign
+[02:46:44] [Server thread/INFO]: ThiaguitoOwO2021 issued server command: /skin set Mikecrack_YT
+[02:49:33] [Server thread/INFO]: ThiaguitoOwO2021 issued server command: /skin random
