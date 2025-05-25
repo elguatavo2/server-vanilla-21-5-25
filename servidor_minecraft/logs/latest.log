@@ -243,3 +243,68 @@ java.lang.IllegalStateException: zip file closed
 [03:20:04] [Server thread/INFO]: tivi0400 has made the advancement [Take Aim]
 [03:20:18] [Server thread/INFO]: tivi0400 was shot by ThiaguitoOwO2021
 [03:21:23] [Server thread/INFO]: Villager Villager['Villager'/6750, uuid='04c13d85-bb1c-4b81-b6f1-93ef0a51939d', l='ServerLevel[world]', x=26.51, y=66.34, z=109.47, cpos=[1, 6], tl=47580, v=true] died, message: 'Villager was shot by tivi0400'
+[03:24:53] [Async Chat Thread - #10/INFO]: [Not Secure] <tivi0400> pipi mi cel se murio
+[03:25:02] [Async Chat Thread - #10/INFO]: [Not Secure] <elguatavo7u7159> lla fue mañana jugamos pe
+[03:25:06] [Async Chat Thread - #10/INFO]: [Not Secure] <elguatavo7u7159> sierr oel server
+[03:27:12] [Async Chat Thread - #13/INFO]: [Not Secure] <elguatavo7u7159> tl adormir pe
+[03:27:16] [Async Chat Thread - #13/INFO]: [Not Secure] <ThiaguitoOwO2021> ZZZZ
+[03:27:16] [Async Chat Thread - #13/INFO]: [Not Secure] <ThiaguitoOwO2021> ZZ
+[03:27:41] [Async Chat Thread - #13/INFO]: [Not Secure] <elguatavo7u7159> lla pe
+[03:27:45] [Async Chat Thread - #13/INFO]: [Not Secure] <elguatavo7u7159> apago el server
+[03:27:49] [Async Chat Thread - #13/INFO]: [Not Secure] <elguatavo7u7159> mañna continuemos
+[03:27:53] [Async Chat Thread - #12/INFO]: [Not Secure] <tivi0400> si quieres
+[03:27:58] [Async Chat Thread - #13/INFO]: [Not Secure] <elguatavo7u7159> chua pe
+[03:28:04] [Server thread/INFO]: Stopping the server
+[03:28:04] [Server thread/INFO]: Stopping server
+[03:28:04] [Server thread/INFO]: [GrimAC] Disabling GrimAC v2.3.69
+[03:28:04] [Server thread/INFO]: [GrimAC] Terminating PacketEvents...
+[03:28:04] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.3
+[03:28:04] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[03:28:04] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[03:28:04] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[03:28:04] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.7
+[03:28:04] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.7.1-SNAPSHOT
+[03:28:04] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[03:28:04] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[03:28:04] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.2
+[03:28:04] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[03:28:04] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
+[03:28:04] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[03:28:04] [Server thread/INFO]: Saving players
+[03:28:04] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Server closed
+[03:28:04] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[03:28:04] [Server thread/INFO]: elguatavo7u7159 lost connection: Server closed
+[03:28:04] [WebSocketConnectReadThread-101/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[03:28:04] [Server thread/INFO]: elguatavo7u7159 left the game
+[03:28:04] [Server thread/INFO]: tivi0400 lost connection: Server closed
+[03:28:04] [Server thread/INFO]: tivi0400 left the game
+[03:28:04] [Server thread/INFO]: Saving worlds
+[03:28:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:28:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:28:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:28:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:28:05] [Server thread/INFO]: [ChunkHolderManager] Saved 31 block chunks, 338 entity chunks, 1 poi chunks in world 'world' in 0.19s
+[03:28:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[03:28:05] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[03:28:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:28:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:28:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:28:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:28:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[03:28:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[03:28:05] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[03:28:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:28:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:28:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:28:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:28:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[03:28:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[03:28:05] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[03:28:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:28:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:28:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:28:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:28:05] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[03:28:05] [Server thread/INFO]: All I/O tasks to complete
+[03:28:05] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[03:28:05] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
