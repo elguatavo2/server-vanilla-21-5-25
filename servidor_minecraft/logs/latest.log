@@ -206,3 +206,9 @@ java.lang.IllegalStateException: zip file closed
 [02:19:58] [Async Chat Thread - #1/INFO]: [Not Secure] <ThiaguitoOwO2021> Z
 [02:20:00] [Async Chat Thread - #1/INFO]: [Not Secure] <c_Benji0w0> zzz
 [02:20:06] [Async Chat Thread - #0/INFO]: [Not Secure] <ThiaguitoOwO2021> zzz
+[02:22:10] [Async Chat Thread - #2/INFO]: [Not Secure] <tivi0400> jijiij
+[02:22:18] [Async Chat Thread - #3/INFO]: [Not Secure] <tivi0400> t
+[02:23:04] [Server thread/INFO]: tivi0400 has made the advancement [Stone Age]
+[02:23:06] [Server thread/INFO]: tivi0400 has made the advancement [Getting an Upgrade]
+[02:23:10] [Server thread/INFO]: c_Benji0w0 has made the advancement [Stone Age]
+[02:25:24] [Server thread/INFO]: Villager Villager['Villager'/1788, uuid='4b033272-c466-4658-b8c6-38aba3cb0584', l='ServerLevel[world]', x=54.00, y=65.00, z=77.64, cpos=[3, 4], tl=4539, v=true] died, message: 'Villager was slain by elguatavo7u7159'
