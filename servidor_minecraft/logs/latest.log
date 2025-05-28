@@ -3,3 +3,35 @@
 [00:00:49] [User Authenticator #7/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
 [00:00:51] [Server thread/INFO]: MrCreeper_143 joined the game
 [00:00:51] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:60507] logged in with entity id 8426 at ([world]118.65119040276916, 59.0, 44.30000001192093)
+[00:01:40] [Server thread/INFO]: MrCreeper_143 lost connection: Timed out
+[00:01:40] [Server thread/INFO]: MrCreeper_143 left the game
+[00:02:15] [User Authenticator #8/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[00:02:17] [Server thread/INFO]: MrCreeper_143 joined the game
+[00:02:17] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:36151] logged in with entity id 8670 at ([world]119.3889372193288, 59.0, 44.06707786957995)
+[00:02:59] [Server thread/INFO]: MrCreeper_143 lost connection: Timed out
+[00:02:59] [Server thread/INFO]: MrCreeper_143 left the game
+[00:03:26] [User Authenticator #9/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[00:03:28] [Server thread/INFO]: MrCreeper_143 joined the game
+[00:03:28] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:58977] logged in with entity id 8865 at ([world]119.62912137710207, 59.0, 42.94119435578955)
+[00:04:09] [Server thread/INFO]: MrCreeper_143 lost connection: Timed out
+[00:04:09] [Server thread/INFO]: MrCreeper_143 left the game
+[00:04:50] [User Authenticator #10/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[00:04:53] [Server thread/INFO]: MrCreeper_143 joined the game
+[00:04:53] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:32855] logged in with entity id 9104 at ([world]118.29568700553583, 59.0, 45.69999998807907)
+[00:05:25] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
+[00:05:25] [Server thread/INFO]: MrCreeper_143 left the game
+[00:08:06] [User Authenticator #11/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[00:08:07] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[00:08:07] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:58095] logged in with entity id 9658 at ([world]64.80043631791762, 65.0, 72.38116175605192)
+[00:08:17] [Netty Epoll Server IO #1/INFO]: [GrimAC] Disconnecting ThiaguitoOwO2021 for spamming invalid packets, packets cancelled within a second 101
+[00:08:17] [Netty Epoll Server IO #1/INFO]: [GrimAC] Disconnecting ThiaguitoOwO2021 for disconnect.closed
+[00:08:17] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[00:08:17] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[00:08:38] [User Authenticator #11/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[00:08:39] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[00:08:39] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:32907] logged in with entity id 9699 at ([world]64.80043631791762, 65.0000001, 72.38116175605192)
+[00:09:15] [Async Chat Thread - #20/INFO]: [Not Secure] <ThiaguitoOwO2021> cual es la mesa
+[00:09:18] [Async Chat Thread - #20/INFO]: [Not Secure] <ThiaguitoOwO2021> pa el herrero
+[00:09:20] [Async Chat Thread - #20/INFO]: [Not Secure] <ThiaguitoOwO2021> de armadura
+[00:10:30] [Async Chat Thread - #22/INFO]: [Not Secure] <ThiaguitoOwO2021> solo me dio 3
+[00:10:52] [Async Chat Thread - #23/INFO]: [Not Secure] <ThiaguitoOwO2021> se fue a la backrooms
