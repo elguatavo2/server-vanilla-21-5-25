@@ -295,3 +295,61 @@ java.lang.IllegalStateException: zip file closed
 [22:54:29] [Async Chat Thread - #13/INFO]: [Not Secure] <elguatavo7u7159> 804531838313630285
 [22:54:30] [Async Chat Thread - #13/INFO]: [Not Secure] <elguatavo7u7159> 804531838313630285
 [22:54:42] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x240) .001572 /gl 25
+[22:55:13] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x280) .001964 /gl 26
+[22:55:26] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x320) .002529 /gl 27
+[22:55:37] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x360) .004418 /gl 28
+[22:55:45] [Async Chat Thread - #14/INFO]: [Not Secure] <_TaeV_> 140 320
+[22:55:58] [Async Chat Thread - #14/INFO]: [Not Secure] <elguatavo7u7159> 140 320
+[22:56:03] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x360) .001629 /gl 29
+[22:56:07] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x360) .002286 /gl 30
+[22:57:03] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x400) .001335 /gl 31
+[22:57:17] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x400) .002917 /gl 32
+[22:57:17] [Server thread/INFO]: Grim » _TaeV_ failed NoSlow (x10) 
+[22:57:56] [Server thread/INFO]: Grim » _TaeV_ failed NoSlow (x15) 
+[22:57:56] [Server thread/INFO]: Grim » _TaeV_ failed NoSlow (x20) 
+[22:58:20] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x440) .002831 /gl 33
+[22:58:22] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x440) .002290 /gl 34
+[22:58:48] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x480) .001209 /gl 35
+[22:59:01] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x520) .003069 /gl 36
+[22:59:27] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x520) .003339 /gl 37
+[22:59:29] [Server thread/INFO]: _TaeV_ has made the advancement [Monster Hunter]
+[22:59:38] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x520) .001798 /gl 38
+[22:59:39] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x520) .003776 /gl 39
+[22:59:42] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x520) .004049 /gl 40
+[22:59:45] [Server thread/INFO]: _TaeV_ has made the advancement [A Terrible Fortress]
+[22:59:54] [Server thread/INFO]: elguatavo7u7159 has made the advancement [A Terrible Fortress]
+[23:00:03] [Server thread/INFO]: elguatavo7u7159 has made the advancement [Into Fire]
+[23:00:14] [Server thread/INFO]: _TaeV_ has made the advancement [Into Fire]
+[23:00:15] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x560) .001466 /gl 41
+[23:00:20] [Server thread/INFO]: Grim » _TaeV_ failed NoSlow (x25) 
+[23:00:20] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x560) .007285 /gl 42
+[23:00:25] [Server thread/INFO]: Grim » _TaeV_ failed NoSlow (x30) 
+[23:00:25] [Server thread/INFO]: Grim » _TaeV_ failed NoSlow (x35) 
+[23:00:35] [Server thread/INFO]: Grim » _TaeV_ failed NoSlow (x40) 
+[23:00:36] [Server thread/INFO]: Grim » _TaeV_ failed NoSlow (x45) 
+[23:00:36] [Server thread/INFO]: Grim » _TaeV_ failed NoSlow (x50) 
+[23:00:37] [Server thread/INFO]: Grim » _TaeV_ failed NoSlow (x55) 
+[23:00:55] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x560) .005497 /gl 43
+[23:01:03] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x560) .001619 /gl 44
+[23:01:04] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x560) .002307 /gl 45
+[23:01:06] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x560) .001793 /gl 46
+[23:01:16] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x560) .001619 /gl 47
+[23:01:16] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x560) .001432 /gl 48
+[23:01:29] [Server thread/INFO]: Grim » _TaeV_ failed NoSlow (x60) 
+[23:01:33] [Server thread/INFO]: _TaeV_ has made the advancement [Cover Me with Diamonds]
+[23:01:37] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x560) .003125 /gl 49
+[23:01:48] [Server thread/INFO]: Grim » _TaeV_ failed NoSlow (x65) 
+[23:01:48] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x600) .005120 /gl 50
+[23:01:48] [Server thread/INFO]: Grim » _TaeV_ failed NoSlow (x70) 
+[23:02:09] [Server thread/INFO]: Grim » _TaeV_ failed NoSlow (x75) 
+[23:02:09] [Server thread/INFO]: Grim » _TaeV_ failed NoSlow (x80) 
+[23:02:20] [Server thread/INFO]: Grim » _TaeV_ failed NoSlow (x70) 
+[23:02:21] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x600) .006676 /gl 51
+[23:02:21] [Server thread/INFO]: Grim » _TaeV_ failed NoSlow (x75) 
+[23:02:21] [Server thread/INFO]: Grim » _TaeV_ failed NoSlow (x80) 
+[23:02:37] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x600) .002630 /gl 52
+[23:02:46] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x600) .002530 /gl 53
+[23:04:23] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x600) .006153 /gl 54
+[23:04:28] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x600) .001137 /gl 55
+[23:04:30] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x640) .003053 /gl 56
+[23:04:43] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x640) .001618 /gl 57
