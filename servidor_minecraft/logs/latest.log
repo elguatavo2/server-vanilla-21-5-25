@@ -246,3 +246,52 @@ java.lang.IllegalStateException: zip file closed
 [22:43:31] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x200) .003624 /gl 16
 [22:44:21] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x240) .001272 /gl 17
 [22:44:30] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x240) .003077 /gl 18
+[22:44:48] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x280) .005869 /gl 19
+[22:44:48] [Server thread/INFO]: Grim » Camilav18_YT failed NoSlow (x10) 
+[22:45:20] [Server thread/INFO]: _TaeV_ issued server command: /skin search kirito
+[22:45:25] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x200) .002552 /gl 20
+[22:46:03] [Async Chat Thread - #8/INFO]: [Not Secure] <Camilav18_YT> a nadie es mia
+[22:46:06] [Server thread/INFO]: Camilav18_YT lost connection: Timed out
+[22:46:06] [Server thread/INFO]: Camilav18_YT left the game
+[22:46:19] [User Authenticator #4/INFO]: UUID of player Camilav18_YT is 09efd2da-53aa-3c83-9f8e-e5223a0a5192
+[22:46:20] [Server thread/INFO]: Camilav18_YT joined the game
+[22:46:20] [Server thread/INFO]: Camilav18_YT[/127.242.56.188:42759] logged in with entity id 7504 at ([world]63.6591012120204, 63.0, 94.06591049171247)
+[22:46:30] [Async Chat Thread - #8/INFO]: [Not Secure] <elguatavo7u7159> ./skin set \\\\
+[22:46:54] [Async Chat Thread - #8/INFO]: [Not Secure] <_TaeV_> }
+[22:46:57] [Server thread/INFO]: Camilav18_YT lost connection: Timed out
+[22:46:57] [Server thread/INFO]: Camilav18_YT left the game
+[22:47:15] [User Authenticator #4/INFO]: UUID of player Camilav18_YT is 09efd2da-53aa-3c83-9f8e-e5223a0a5192
+[22:47:16] [Server thread/INFO]: Camilav18_YT joined the game
+[22:47:16] [Server thread/INFO]: Camilav18_YT[/127.242.56.188:48617] logged in with entity id 7600 at ([world]56.44064390450571, 62.9375, 86.30000001192093)
+[22:47:23] [Server thread/INFO]: Camilav18_YT has made the advancement [Getting an Upgrade]
+[22:47:36] [Server thread/INFO]: Camilav18_YT lost connection: Disconnected
+[22:47:36] [Server thread/INFO]: Camilav18_YT left the game
+[22:47:37] [Server thread/INFO]: _TaeV_ lost connection: Timed out
+[22:47:37] [Server thread/INFO]: _TaeV_ left the game
+[22:47:40] [User Authenticator #4/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[22:47:41] [Server thread/INFO]: _TaeV_ joined the game
+[22:47:41] [Server thread/INFO]: _TaeV_[/127.239.77.13:50153] logged in with entity id 7649 at ([world]42.498795617757445, 68.0, 99.40515968712972)
+[22:48:03] [Server thread/INFO]: _TaeV_ issued server command: /skin set goku
+[22:48:15] [Server thread/INFO]: _TaeV_ issued server command: /skin set kirito
+[22:48:47] [Async Chat Thread - #10/INFO]: [Not Secure] <elguatavo7u7159> tigo estoy en el canal de avajo
+[22:48:49] [Server thread/INFO]: _TaeV_ issued server command: /skin set kirito
+[22:48:50] [Async Chat Thread - #10/INFO]: [Not Secure] <elguatavo7u7159> por si acaso
+[22:50:43] [Server thread/INFO]: _TaeV_ issued server command: /skin set Polar Bear
+[22:50:53] [Server thread/INFO]: _TaeV_ issued server command: /skin set polar
+[22:51:05] [Server thread/INFO]: elpanajose has made the advancement [What a Deal!]
+[22:51:30] [Server thread/INFO]: _TaeV_ issued server command: /skin set polarbear
+[22:51:50] [Server thread/INFO]: Grim » _TaeV_ failed NoSlow (x10) 
+[22:52:10] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x120) .012150 /gl 21
+[22:52:42] [Server thread/INFO]: _TaeV_ has made the advancement [Stone Age]
+[22:52:45] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x160) .001596 /gl 22
+[22:53:15] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x200) .003337 /gl 23
+[22:53:23] [Server thread/INFO]: elpanajose has made the advancement [Monster Hunter]
+[22:53:48] [Server thread/INFO]: _TaeV_ has made the advancement [We Need to Go Deeper]
+[22:54:18] [Server thread/INFO]: elguatavo7u7159 issued server command: /seed
+[22:54:19] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x200) .001186 /gl 24
+[22:54:26] [Async Chat Thread - #13/INFO]: [Not Secure] <elguatavo7u7159> 804531838313630285
+[22:54:28] [Async Chat Thread - #13/INFO]: [Not Secure] <elguatavo7u7159> 804531838313630285
+[22:54:28] [Async Chat Thread - #12/INFO]: [Not Secure] <elguatavo7u7159> 804531838313630285
+[22:54:29] [Async Chat Thread - #13/INFO]: [Not Secure] <elguatavo7u7159> 804531838313630285
+[22:54:30] [Async Chat Thread - #13/INFO]: [Not Secure] <elguatavo7u7159> 804531838313630285
+[22:54:42] [Server thread/INFO]: Grim » _TaeV_ failed Simulation (x240) .001572 /gl 25
