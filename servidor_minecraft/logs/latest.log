@@ -514,3 +514,6 @@ java.lang.IllegalStateException: zip file closed
 [23:45:47] [User Authenticator #7/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
 [23:45:48] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
 [23:45:48] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:59711] logged in with entity id 24447 at ([world]6.403267229050762, 64.0, 107.99861617893406)
+[23:48:31] [Server thread/INFO]: Josuux_x1 burned to death
+[23:48:34] [Server thread/INFO]: elpanajose has made the advancement [Ol' Betsy]
+[23:52:26] [Server thread/INFO]: Villager Villager['Villager'/98, uuid='a274f1af-8ce8-42fb-a16b-e5bf1ea04876', l='ServerLevel[world]', x=69.70, y=65.00, z=66.14, cpos=[4, 4], tl=110653, v=true] died, message: 'Villager was slain by ThiaguitoOwO2021'
