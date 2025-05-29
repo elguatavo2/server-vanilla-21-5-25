@@ -63,3 +63,11 @@
 [01:11:43] [Server thread/INFO]: elpanajose has made the advancement [Take Aim]
 [01:16:55] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
 [01:16:55] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[01:17:07] [User Authenticator #11/INFO]: Disconnecting Josuux_x1 (/127.62.185.89:34393): [LoginSecurity] This player is already online!
+[01:17:07] [User Authenticator #11/INFO]: UUID of player Josuux_x1 is 3f1e6808-f9d2-3de8-8a57-2ac5d73421bb
+[01:17:07] [Server thread/INFO]: Josuux_x1 (/127.62.185.89:34393) lost connection: [LoginSecurity] This player is already online!
+[01:17:09] [Server thread/INFO]: Josuux_x1 lost connection: Timed out
+[01:17:09] [Server thread/INFO]: Josuux_x1 left the game
+[01:17:19] [User Authenticator #11/INFO]: UUID of player Josuux_x1 is 3f1e6808-f9d2-3de8-8a57-2ac5d73421bb
+[01:17:20] [Server thread/INFO]: Josuux_x1 joined the game
+[01:17:20] [Server thread/INFO]: Josuux_x1[/127.62.185.89:55669] logged in with entity id 50623 at ([world]20.563253022958897, 63.0, 168.0752948002154)
