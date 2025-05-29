@@ -92,3 +92,75 @@
 [01:36:43] [Async Chat Thread - #31/INFO]: [Not Secure] <ThiaguitoOwO2021> yoyoyyo
 [01:36:52] [Async Chat Thread - #31/INFO]: [Not Secure] <ThiaguitoOwO2021> okoko
 [01:36:58] [Async Chat Thread - #31/INFO]: [Not Secure] <ThiaguitoOwO2021> onde ta
+[01:37:42] [Async Chat Thread - #31/INFO]: [Not Secure] <ThiaguitoOwO2021> iwal we
+[01:39:24] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[01:39:24] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[01:39:33] [User Authenticator #14/INFO]: Disconnecting Josuux_x1 (/127.62.185.89:43857): [LoginSecurity] This player is already online!
+[01:39:33] [User Authenticator #14/INFO]: UUID of player Josuux_x1 is 3f1e6808-f9d2-3de8-8a57-2ac5d73421bb
+[01:39:33] [Server thread/INFO]: Josuux_x1 (/127.62.185.89:43857) lost connection: [LoginSecurity] This player is already online!
+[01:39:35] [Server thread/INFO]: Josuux_x1 lost connection: Timed out
+[01:39:35] [Server thread/INFO]: Josuux_x1 left the game
+[01:39:35] [User Authenticator #14/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[01:39:36] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[01:39:36] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:43849] logged in with entity id 56913 at ([world]-25.47178171771865, 64.19088404954839, 158.8323087499318)
+[01:39:40] [User Authenticator #14/INFO]: UUID of player Josuux_x1 is 3f1e6808-f9d2-3de8-8a57-2ac5d73421bb
+[01:39:41] [Server thread/INFO]: Josuux_x1 (/127.62.185.89:41443) lost connection: Disconnected
+[01:39:47] [User Authenticator #14/INFO]: UUID of player Josuux_x1 is 3f1e6808-f9d2-3de8-8a57-2ac5d73421bb
+[01:39:48] [Server thread/INFO]: Josuux_x1 joined the game
+[01:39:48] [Server thread/INFO]: Josuux_x1[/127.62.185.89:34479] logged in with entity id 56956 at ([world]23.640786197613963, 68.0, 178.27343489696256)
+[01:40:35] [Server thread/INFO]: elpanajose lost connection: Disconnected
+[01:40:35] [Server thread/INFO]: elpanajose left the game
+[01:40:58] [Server thread/INFO]: Stopping the server
+[01:40:58] [Server thread/INFO]: Stopping server
+[01:40:59] [Server thread/INFO]: [GrimAC] Disabling GrimAC v2.3.69
+[01:40:59] [Server thread/INFO]: [GrimAC] Terminating PacketEvents...
+[01:40:59] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.4
+[01:40:59] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[01:40:59] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[01:40:59] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[01:40:59] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.7
+[01:40:59] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.7.1-SNAPSHOT
+[01:40:59] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[01:40:59] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[01:40:59] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.2
+[01:40:59] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[01:40:59] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
+[01:40:59] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[01:40:59] [Server thread/INFO]: Saving players
+[01:40:59] [Server thread/INFO]: elguatavo7u7159 lost connection: Server closed
+[01:40:59] [WebSocketConnectReadThread-103/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[01:40:59] [Server thread/INFO]: elguatavo7u7159 left the game
+[01:40:59] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Server closed
+[01:40:59] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[01:40:59] [Server thread/INFO]: Josuux_x1 lost connection: Server closed
+[01:40:59] [Server thread/INFO]: Josuux_x1 left the game
+[01:40:59] [Server thread/INFO]: Saving worlds
+[01:40:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:40:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:40:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:40:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[01:40:59] [Server thread/INFO]: [ChunkHolderManager] Saved 102 block chunks, 450 entity chunks, 6 poi chunks in world 'world' in 0.28s
+[01:40:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[01:40:59] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[01:40:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:40:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:40:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:40:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[01:40:59] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[01:40:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[01:40:59] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[01:40:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:40:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:40:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:40:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[01:40:59] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[01:40:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[01:40:59] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[01:40:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:40:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:40:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:40:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:40:59] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[01:40:59] [Server thread/INFO]: All I/O tasks to complete
+[01:40:59] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[01:40:59] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
