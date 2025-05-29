@@ -49,3 +49,14 @@
 [00:24:09] [Async Chat Thread - #25/INFO]: [Not Secure] <elguatavo7u7159> 23 67 61
 [00:24:51] [Async Chat Thread - #25/INFO]: [Not Secure] <elguatavo7u7159> 23 67 61
 [00:24:51] [Async Chat Thread - #26/INFO]: [Not Secure] <elguatavo7u7159> 23 67 61
+[00:57:09] [Server thread/INFO]: Villager Villager['Villager'/30201, uuid='dd99d813-3e19-4c84-a9dc-390410dfb4c6', l='ServerLevel[world]', x=8.35, y=66.00, z=111.35, cpos=[0, 6], tl=54971, v=true] died, message: 'Villager was slain by Zombie'
+[00:57:26] [Server thread/INFO]: elpanajose lost connection: Disconnected
+[00:57:26] [Server thread/INFO]: elpanajose left the game
+[00:57:30] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[00:57:30] [Server thread/INFO]: elguatavo7u7159 left the game
+[00:57:56] [User Authenticator #9/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[00:57:57] [Server thread/INFO]: elguatavo7u7159 joined the game
+[00:57:57] [Server thread/INFO]: elguatavo7u7159[/127.124.192.66:33547] logged in with entity id 43825 at ([world]-6.6737622376110926, 64.0, 106.31356119343054)
+[01:00:27] [User Authenticator #10/INFO]: UUID of player elpanajose is 18a7d61d-1943-315e-bfae-68ac6a9a8bf1
+[01:00:28] [Server thread/INFO]: elpanajose joined the game
+[01:00:28] [Server thread/INFO]: elpanajose[/127.188.105.249:44295] logged in with entity id 44605 at ([world]-3.570264746317113, 48.0, 79.30000001192093)
