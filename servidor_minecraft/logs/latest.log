@@ -374,3 +374,37 @@ java.lang.IllegalStateException: zip file closed
 [01:31:37] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:43807] logged in with entity id 24853 at ([world]268.3307730967634, 61.178062791686386, 236.33615556965188)
 [01:32:07] [Server thread/INFO]: elguatavo7u7159 was slain by MrCreeper_143
 [01:32:30] [Async Chat Thread - #36/INFO]: [Not Secure] <ThiaguitoOwO2021> ./kill MrCreeper_143
+[01:33:49] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
+[01:33:49] [Server thread/INFO]: MrCreeper_143 left the game
+[01:34:37] [Async Chat Thread - #37/INFO]: [Not Secure] <ThiaguitoOwO2021> era k reinicies la pagina
+[01:36:02] [User Authenticator #17/INFO]: UUID of player MrCreeper_1 is dc89475f-05f6-302a-86fa-c89eb70a9086
+[01:36:05] [Server thread/INFO]: MrCreeper_1 joined the game
+[01:36:05] [Server thread/INFO]: MrCreeper_1[/127.143.116.218:41061] logged in with entity id 26103 at ([world]0.24660321513474512, 68.0, 9.361469819326794)
+[01:36:40] [Netty Epoll Server IO #2/INFO]: [GrimAC] Disconnecting MrCreeper_1 for spamming invalid packets, packets cancelled within a second 101
+[01:36:40] [Netty Epoll Server IO #2/INFO]: [GrimAC] Disconnecting MrCreeper_1 for disconnect.closed
+[01:36:40] [Server thread/INFO]: MrCreeper_1 lost connection: disconnect.closed
+[01:36:40] [Server thread/INFO]: MrCreeper_1 left the game
+[01:37:01] [User Authenticator #17/INFO]: UUID of player MrCreeper_1 is dc89475f-05f6-302a-86fa-c89eb70a9086
+[01:37:02] [Server thread/INFO]: MrCreeper_1 joined the game
+[01:37:02] [Server thread/INFO]: MrCreeper_1[/127.143.116.218:52775] logged in with entity id 26435 at ([world]-22.491657999450997, 70.01377407408766, -9.334643560792825)
+[01:37:56] [Server thread/INFO]: MrCreeper_1 lost connection: Timed out
+[01:37:56] [Server thread/INFO]: MrCreeper_1 left the game
+[01:38:11] [User Authenticator #18/INFO]: UUID of player MrCreeper_1 is dc89475f-05f6-302a-86fa-c89eb70a9086
+[01:38:12] [Server thread/INFO]: MrCreeper_1 joined the game
+[01:38:12] [Server thread/INFO]: MrCreeper_1[/127.143.116.218:51669] logged in with entity id 26900 at ([world]32.69999998807907, 65.33284872929374, 62.716650456520064)
+[01:38:25] [Async Chat Thread - #39/INFO]: [Not Secure] <ThiaguitoOwO2021> ke miedo
+[01:38:34] [Async Chat Thread - #39/INFO]: [Not Secure] <ThiaguitoOwO2021> es tan valiente q c sale mas de 5 veces
+[01:38:56] [Server thread/INFO]: MrCreeper_1 was slain by elguatavo7u7159
+[01:38:59] [Netty Epoll Server IO #2/INFO]: [GrimAC] Disconnecting MrCreeper_1 for spamming invalid packets, packets cancelled within a second 101
+[01:38:59] [Netty Epoll Server IO #2/INFO]: [GrimAC] Disconnecting MrCreeper_1 for disconnect.closed
+[01:38:59] [Server thread/INFO]: MrCreeper_1 lost connection: Disconnected
+[01:38:59] [Server thread/INFO]: MrCreeper_1 left the game
+[01:39:21] [User Authenticator #19/INFO]: UUID of player MrCreeper_1 is dc89475f-05f6-302a-86fa-c89eb70a9086
+[01:39:22] [Server thread/INFO]: MrCreeper_1 joined the game
+[01:39:22] [Server thread/INFO]: MrCreeper_1[/127.143.116.218:50613] logged in with entity id 27254 at ([world]31.650202942609873, 66.0, 68.01127957588947)
+[01:40:18] [Server thread/INFO]: MrCreeper_1 was slain by elguatavo7u7159
+[01:40:51] [Server thread/INFO]: MrCreeper_1 lost connection: Disconnected
+[01:40:51] [Server thread/INFO]: MrCreeper_1 left the game
+[01:42:20] [User Authenticator #20/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[01:42:22] [Server thread/INFO]: MrCreeper_143 joined the game
+[01:42:22] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:55805] logged in with entity id 28318 at ([world]188.30000001192093, 50.0, 192.69999998807907)
