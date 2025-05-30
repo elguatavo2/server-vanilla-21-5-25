@@ -254,3 +254,17 @@ java.lang.IllegalStateException: zip file closed
 [00:32:02] [Craft Scheduler Thread - 124 - GrimAC/INFO]: [GrimAC] Disconnecting Josuux_x1 for disconnect.timeout
 [00:32:02] [Server thread/INFO]: Josuux_x1 lost connection: Disconnected
 [00:32:02] [Server thread/INFO]: Josuux_x1 left the game
+[00:43:11] [Server thread/INFO]: elpanajose lost connection: Disconnected
+[00:43:11] [Server thread/INFO]: elpanajose left the game
+[00:43:26] [User Authenticator #9/INFO]: UUID of player elpanajose is 18a7d61d-1943-315e-bfae-68ac6a9a8bf1
+[00:43:27] [Server thread/INFO]: elpanajose joined the game
+[00:43:27] [Server thread/INFO]: elpanajose[/127.188.105.249:48105] logged in with entity id 12976 at ([world]-3.300000011920929, 71.0, 236.8460130864275)
+[00:44:04] [Server thread/INFO]: elpanajose lost connection: Timed out
+[00:44:04] [Server thread/INFO]: elpanajose left the game
+[00:44:21] [Server thread/INFO]: elguatavo7u7159 burned to death
+[00:44:23] [User Authenticator #9/INFO]: UUID of player elpanajose is 18a7d61d-1943-315e-bfae-68ac6a9a8bf1
+[00:44:24] [Server thread/INFO]: elpanajose joined the game
+[00:44:24] [Server thread/INFO]: elpanajose[/127.188.105.249:35881] logged in with entity id 13307 at ([world]-3.407167179675882, 71.0, 244.51716299647543)
+[00:46:34] [Server thread/INFO]: elguatavo7u7159 burned to death
+[00:51:12] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode spectator
+[00:51:12] [Server thread/INFO]: [elguatavo7u7159: Set own game mode to Spectator Mode]
