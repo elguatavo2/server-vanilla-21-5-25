@@ -352,3 +352,25 @@ java.lang.IllegalStateException: zip file closed
 [01:21:24] [Server thread/INFO]: MrCreeper_1 joined the game
 [01:21:24] [Server thread/INFO]: MrCreeper_1[/127.143.116.218:33471] logged in with entity id 21994 at ([world]8.5, 70.0, 9.5)
 [01:22:45] [Server thread/INFO]: MrCreeper_1 was slain by elguatavo7u7159
+[01:23:07] [User Authenticator #14/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[01:23:08] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[01:23:08] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:33721] logged in with entity id 22419 at ([world]54.25294787571043, 66.0, 68.71362282441704)
+[01:23:52] [Server thread/INFO]: MrCreeper_1 was slain by elguatavo7u7159
+[01:24:52] [Server thread/INFO]: MrCreeper_1 was poked to death by a sweet berry bush
+[01:24:57] [Async Chat Thread - #32/INFO]: [Not Secure] <ThiaguitoOwO2021> XDDDDDD
+[01:25:06] [Server thread/INFO]: MrCreeper_1 lost connection: Disconnected
+[01:25:06] [Server thread/INFO]: MrCreeper_1 left the game
+[01:25:16] [Server thread/INFO]: Villager Villager['Cleric'/66, uuid='72c2fec6-c59e-49c3-8782-628088c7c116', l='ServerLevel[world]', x=28.50, y=68.00, z=49.35, cpos=[1, 3], tl=192334, v=true] died, message: 'Cleric was blown up by Creeper'
+[01:26:51] [User Authenticator #15/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[01:26:53] [Server thread/INFO]: MrCreeper_143 joined the game
+[01:26:53] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:34609] logged in with entity id 23152 at ([world]123.30000001192093, 76.0, 108.16474290040244)
+[01:28:17] [Async Chat Thread - #35/INFO]: [Not Secure] <ThiaguitoOwO2021> solo veo
+[01:28:38] [Async Chat Thread - #34/INFO]: [Not Secure] <ThiaguitoOwO2021> pero
+[01:29:14] [Server thread/INFO]: Grim » MrCreeper_143 failed Timer - Vehicle (x10) 
+[01:31:05] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
+[01:31:05] [Server thread/INFO]: MrCreeper_143 left the game
+[01:31:36] [User Authenticator #16/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[01:31:37] [Server thread/INFO]: MrCreeper_143 joined the game
+[01:31:37] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:43807] logged in with entity id 24853 at ([world]268.3307730967634, 61.178062791686386, 236.33615556965188)
+[01:32:07] [Server thread/INFO]: elguatavo7u7159 was slain by MrCreeper_143
+[01:32:30] [Async Chat Thread - #36/INFO]: [Not Secure] <ThiaguitoOwO2021> ./kill MrCreeper_143
