@@ -408,3 +408,33 @@ java.lang.IllegalStateException: zip file closed
 [01:42:20] [User Authenticator #20/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
 [01:42:22] [Server thread/INFO]: MrCreeper_143 joined the game
 [01:42:22] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:55805] logged in with entity id 28318 at ([world]188.30000001192093, 50.0, 192.69999998807907)
+[01:43:46] [Server thread/INFO]: MrCreeper_143 burned to death
+[01:44:03] [Async Chat Thread - #41/INFO]: [Not Secure] <ThiaguitoOwO2021> dalas
+[01:44:56] [Server thread/WARN]: MrCreeper_143 was kicked for floating too long!
+[01:44:56] [Server thread/INFO]: MrCreeper_143 lost connection: Flying is not enabled on this server
+[01:44:56] [Server thread/INFO]: MrCreeper_143 left the game
+[01:45:21] [Server thread/INFO]: Villager Villager['Fletcher'/37, uuid='588be45e-542a-465f-8978-8ddb523f019e', l='ServerLevel[world]', x=72.30, y=68.00, z=61.70, cpos=[4, 3], tl=466056, v=true] died, message: 'Fletcher was slain by Zombie'
+[01:45:22] [User Authenticator #21/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[01:45:26] [Server thread/INFO]: MrCreeper_143 joined the game
+[01:45:26] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:51851] logged in with entity id 29233 at ([world]128.5268560834261, 69.05411736736092, 126.83100729824558)
+[01:45:29] [Server thread/INFO]: Villager Villager['Villager'/40, uuid='1dcf445d-891d-4325-b98c-a721cf0528ba', l='ServerLevel[world]', x=74.70, y=68.00, z=61.66, cpos=[4, 3], tl=210144, v=true] died, message: 'Villager was slain by Zombie'
+[01:46:32] [Async Chat Thread - #43/INFO]: [Not Secure] <ThiaguitoOwO2021> 18 stacks de troncos k riko man
+[01:47:52] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[01:47:53] [Server thread/INFO]: elguatavo7u7159 left the game
+[01:48:32] [Async Chat Thread - #44/INFO]: [Not Secure] <ThiaguitoOwO2021> josee
+[01:48:33] [Server thread/INFO]: Villager Villager['Fletcher'/24, uuid='71254538-63bf-49fd-bfd8-1d997d1f509e', l='ServerLevel[world]', x=66.30, y=65.00, z=63.30, cpos=[4, 3], tl=754112, v=true] died, message: 'Fletcher was blown up by Creeper'
+[01:48:36] [Async Chat Thread - #44/INFO]: [Not Secure] <ThiaguitoOwO2021> MRD JOSWE
+[01:48:44] [Async Chat Thread - #44/INFO]: [Not Secure] <ThiaguitoOwO2021> LO TRAJISTE
+[01:48:45] [Async Chat Thread - #44/INFO]: [Not Secure] <MrCreeper_143> trajo un creeper
+[01:48:51] [User Authenticator #22/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[01:48:52] [Server thread/INFO]: elguatavo7u7159 joined the game
+[01:48:52] [Server thread/INFO]: elguatavo7u7159[/127.128.30.84:56433] logged in with entity id 29943 at ([world]142.6726046264181, 69.0, 123.55881547959818)
+[01:49:47] [Async Chat Thread - #47/INFO]: [Not Secure] <ThiaguitoOwO2021> SI LO TRAJISTE
+[01:51:57] [Server thread/INFO]: elpanajose tried to swim in lava to escape MrCreeper_143
+[01:52:33] [Async Chat Thread - #48/INFO]: [Not Secure] <ThiaguitoOwO2021> NO
+[01:52:34] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
+[01:52:34] [Server thread/INFO]: MrCreeper_143 left the game
+[01:52:49] [User Authenticator #23/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[01:52:51] [Server thread/INFO]: MrCreeper_143 joined the game
+[01:52:51] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:34181] logged in with entity id 30777 at ([world]70.12456363075884, 63.0, 153.60683316227403)
+[01:53:02] [Server thread/INFO]: MrCreeper_143 was burned to a crisp while fighting elpanajose
