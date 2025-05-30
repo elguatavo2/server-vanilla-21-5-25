@@ -197,3 +197,60 @@ java.lang.IllegalStateException: zip file closed
 [00:19:59] [Server thread/INFO]: elpanajose[/127.188.105.249:46355] logged in with entity id 4795 at ([world]-2.9390350601462263, 73.0, 242.6423753571183)
 [00:21:33] [Server thread/INFO]: Villager Villager['Villager'/2122, uuid='3bf38042-0469-45af-bd05-6c2dd202ce8a', l='ServerLevel[world]', x=63.49, y=65.00, z=66.38, cpos=[3, 4], tl=13978, v=true] died, message: 'Villager was slain by elguatavo7u7159'
 [00:21:48] [Server thread/INFO]: Villager Villager['Villager'/810, uuid='053ae20e-9617-4d10-bc00-e457ab17d50d', l='ServerLevel[world]', x=52.57, y=64.06, z=79.50, cpos=[3, 4], tl=20761, v=true] died, message: 'Villager was slain by elguatavo7u7159'
+[00:23:02] [User Authenticator #3/INFO]: UUID of player Josuux_x1 is 3f1e6808-f9d2-3de8-8a57-2ac5d73421bb
+[00:23:04] [Server thread/INFO]: Josuux_x1 joined the game
+[00:23:04] [Server thread/INFO]: Josuux_x1[/127.223.178.195:43001] logged in with entity id 5443 at ([world]36.97415766058558, 62.9375, 175.41440921633736)
+[00:24:05] [Craft Scheduler Thread - 93 - GrimAC/INFO]: [GrimAC] Disconnecting Josuux_x1 for disconnect.timeout
+[00:24:05] [Server thread/INFO]: Josuux_x1 lost connection: disconnect.timeout
+[00:24:05] [Server thread/INFO]: Josuux_x1 left the game
+[00:24:19] [User Authenticator #4/INFO]: UUID of player Josuux_x1 is 3f1e6808-f9d2-3de8-8a57-2ac5d73421bb
+[00:24:21] [Server thread/INFO]: Josuux_x1 joined the game
+[00:24:21] [Server thread/INFO]: Josuux_x1[/127.223.178.195:51699] logged in with entity id 5740 at ([world]36.97415766058558, 62.9375001, 175.41440921633736)
+[00:24:44] [Server thread/INFO]: Josuux_x1 lost connection: Disconnected
+[00:24:44] [Server thread/INFO]: Josuux_x1 left the game
+[00:24:52] [User Authenticator #4/INFO]: UUID of player Josuux_x1 is 3f1e6808-f9d2-3de8-8a57-2ac5d73421bb
+[00:24:54] [Server thread/INFO]: Josuux_x1 joined the game
+[00:24:54] [Server thread/INFO]: Josuux_x1[/127.223.178.195:44573] logged in with entity id 5882 at ([world]36.97415766058558, 62.9375002, 175.41440921633736)
+[00:25:55] [Craft Scheduler Thread - 97 - GrimAC/INFO]: [GrimAC] Disconnecting Josuux_x1 for disconnect.timeout
+[00:25:55] [Server thread/INFO]: Josuux_x1 lost connection: Disconnected
+[00:25:55] [Server thread/INFO]: Josuux_x1 left the game
+[00:26:16] [User Authenticator #5/INFO]: UUID of player Josuux_x1 is 3f1e6808-f9d2-3de8-8a57-2ac5d73421bb
+[00:26:32] [Server thread/INFO]: Josuux_x1 joined the game
+[00:26:32] [Server thread/INFO]: Josuux_x1[/127.223.178.195:55285] logged in with entity id 6318 at ([world]36.97415766058558, 62.9375003, 175.41440921633736)
+[00:27:05] [Async Chat Thread - #7/INFO]: [Not Secure] <Josuux_x1> y+g
+[00:27:08] [Server thread/INFO]: Josuux_x1 lost connection: Disconnected
+[00:27:08] [Server thread/INFO]: Josuux_x1 left the game
+[00:27:38] [User Authenticator #6/INFO]: UUID of player Josuux_x1 is 3f1e6808-f9d2-3de8-8a57-2ac5d73421bb
+[00:27:39] [Server thread/INFO]: Josuux_x1 joined the game
+[00:27:39] [Server thread/INFO]: Josuux_x1[/127.223.178.195:54651] logged in with entity id 6821 at ([world]36.97415766058558, 62.9375003, 175.41440921633736)
+[00:28:40] [Craft Scheduler Thread - 112 - GrimAC/INFO]: [GrimAC] Disconnecting Josuux_x1 for disconnect.timeout
+[00:28:40] [Server thread/INFO]: Josuux_x1 lost connection: Disconnected
+[00:28:40] [Server thread/INFO]: Josuux_x1 left the game
+[00:29:00] [User Authenticator #7/INFO]: UUID of player Josuux_x1 is 3f1e6808-f9d2-3de8-8a57-2ac5d73421bb
+[00:29:01] [Server thread/INFO]: Josuux_x1 joined the game
+[00:29:01] [Server thread/INFO]: Josuux_x1[/127.223.178.195:38677] logged in with entity id 7192 at ([world]37.52107767841804, 63.4072679954834, 155.7049126952027)
+[00:29:48] [Server thread/INFO]: ThiaguitoOwO2021 has made the advancement [Ice Bucket Challenge]
+[00:30:02] [Craft Scheduler Thread - 116 - GrimAC/INFO]: [GrimAC] Disconnecting Josuux_x1 for disconnect.timeout
+[00:30:02] [Server thread/INFO]: Josuux_x1 lost connection: Disconnected
+[00:30:02] [Server thread/INFO]: Josuux_x1 left the game
+[00:30:32] [Async Chat Thread - #8/INFO]: [Not Secure] <MrCreeper_143> zzzzzzzzzzzzzzzzzzzzzzzz
+[00:30:34] [Server thread/INFO]: Josuux_x1 (/127.223.178.195:46673) lost connection: Disconnected
+[00:30:35] [User Authenticator #8/INFO]: UUID of player Josuux_x1 is 3f1e6808-f9d2-3de8-8a57-2ac5d73421bb
+[00:30:36] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[00:30:36] [Server thread/INFO]: elguatavo7u7159 left the game
+[00:30:37] [Async Chat Thread - #9/INFO]: [Not Secure] <ThiaguitoOwO2021> eezzzz
+[00:30:38] [Async Chat Thread - #9/INFO]: [Not Secure] <ThiaguitoOwO2021> ezzzzzz
+[00:30:42] [Server thread/INFO]: elpanajose lost connection: Disconnected
+[00:30:42] [Server thread/INFO]: elpanajose left the game
+[00:30:59] [User Authenticator #8/INFO]: UUID of player elpanajose is 18a7d61d-1943-315e-bfae-68ac6a9a8bf1
+[00:30:59] [User Authenticator #8/INFO]: UUID of player Josuux_x1 is 3f1e6808-f9d2-3de8-8a57-2ac5d73421bb
+[00:30:59] [Server thread/INFO]: elpanajose joined the game
+[00:30:59] [Server thread/INFO]: elpanajose[/127.188.105.249:50605] logged in with entity id 7816 at ([world]-18.40032572458278, 64.0, 244.40463209247434)
+[00:31:00] [Server thread/INFO]: Josuux_x1 joined the game
+[00:31:00] [Server thread/INFO]: Josuux_x1[/127.223.178.195:52229] logged in with entity id 7820 at ([world]36.87701725020767, 63.0, 153.83330941848791)
+[00:31:04] [User Authenticator #8/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[00:31:05] [Server thread/INFO]: elguatavo7u7159 joined the game
+[00:31:05] [Server thread/INFO]: elguatavo7u7159[/127.128.30.84:52281] logged in with entity id 7883 at ([world]-6.042923579218653, 64.0, 106.46560780729568)
+[00:32:02] [Craft Scheduler Thread - 124 - GrimAC/INFO]: [GrimAC] Disconnecting Josuux_x1 for disconnect.timeout
+[00:32:02] [Server thread/INFO]: Josuux_x1 lost connection: Disconnected
+[00:32:02] [Server thread/INFO]: Josuux_x1 left the game
