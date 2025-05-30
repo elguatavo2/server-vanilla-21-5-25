@@ -181,3 +181,19 @@ java.lang.IllegalStateException: zip file closed
 [00:04:24] [Server thread/INFO]: elpanajose[/127.188.105.249:39743] logged in with entity id 704 at ([world]-2.6845706202799833, 64.0, 234.086162059099)
 [00:08:05] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
 [00:08:05] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[00:15:45] [Async Chat Thread - #3/INFO]: [Not Secure] <MrCreeper_143> zzz
+[00:17:59] [User Authenticator #1/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[00:18:01] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[00:18:01] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:56657] logged in with entity id 4460 at ([world]16.93226492972513, 69.0, 113.16300739154153)
+[00:18:25] [Server thread/INFO]: elpanajose lost connection: Disconnected
+[00:18:25] [Server thread/INFO]: elpanajose left the game
+[00:18:33] [Async Chat Thread - #4/INFO]: [Not Secure] <MrCreeper_143> zzzzzzzzzzzzzzzzzzzz
+[00:18:47] [Async Chat Thread - #5/INFO]: [Not Secure] <ThiaguitoOwO2021> leo
+[00:18:49] [Async Chat Thread - #5/INFO]: [Not Secure] <ThiaguitoOwO2021> duerma krajo
+[00:18:53] [Async Chat Thread - #5/INFO]: [Not Secure] <ThiaguitoOwO2021> MrCreeper_143
+[00:18:54] [Async Chat Thread - #5/INFO]: [Not Secure] <ThiaguitoOwO2021> elguatavo7u7159
+[00:19:58] [User Authenticator #2/INFO]: UUID of player elpanajose is 18a7d61d-1943-315e-bfae-68ac6a9a8bf1
+[00:19:59] [Server thread/INFO]: elpanajose joined the game
+[00:19:59] [Server thread/INFO]: elpanajose[/127.188.105.249:46355] logged in with entity id 4795 at ([world]-2.9390350601462263, 73.0, 242.6423753571183)
+[00:21:33] [Server thread/INFO]: Villager Villager['Villager'/2122, uuid='3bf38042-0469-45af-bd05-6c2dd202ce8a', l='ServerLevel[world]', x=63.49, y=65.00, z=66.38, cpos=[3, 4], tl=13978, v=true] died, message: 'Villager was slain by elguatavo7u7159'
+[00:21:48] [Server thread/INFO]: Villager Villager['Villager'/810, uuid='053ae20e-9617-4d10-bc00-e457ab17d50d', l='ServerLevel[world]', x=52.57, y=64.06, z=79.50, cpos=[3, 4], tl=20761, v=true] died, message: 'Villager was slain by elguatavo7u7159'
