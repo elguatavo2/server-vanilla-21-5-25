@@ -293,3 +293,50 @@ java.lang.IllegalStateException: zip file closed
 [20:13:05] [Server thread/INFO]: Grim » Camilav18_YT failed NoSlow (x15) 
 [20:13:45] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x280) .002870 /gl 47
 [20:13:55] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x320) .002225 /gl 48
+[20:14:19] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x320) .002698 /gl 49
+[20:14:54] [Server thread/INFO]: Grim » Camilav18_YT failed NoSlow (x20) 
+[20:15:58] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x320) .002598 /gl 50
+[20:16:18] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x320) .002308 /gl 51
+[20:16:51] [Server thread/INFO]: Grim » Camilav18_YT failed NoSlow (x25) 
+[20:16:51] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x360) .003003 /gl 52
+[20:16:51] [Server thread/INFO]: Grim » Camilav18_YT failed NoSlow (x30) 
+[20:17:17] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x360) .002741 /gl 53
+[20:17:22] [Server thread/INFO]: Grim » Camilav18_YT failed NoSlow (x35) 
+[20:18:06] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x320) .001943 /gl 54
+[20:19:45] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x240) .001084 /gl 55
+[20:20:28] [Async Chat Thread - #11/INFO]: [Not Secure] <Camilav18_YT> dormi oe
+[20:21:01] [Async Chat Thread - #11/INFO]: [Not Secure] <elguatavo7u7159> pe
+[20:21:03] [Async Chat Thread - #11/INFO]: [Not Secure] <elguatavo7u7159> adormir oe
+[20:21:04] [Async Chat Thread - #11/INFO]: [Not Secure] <Camilav18_YT> dormi
+[20:21:07] [Async Chat Thread - #11/INFO]: [Not Secure] <elguatavo7u7159> 7u7
+[20:21:17] [Async Chat Thread - #11/INFO]: [Not Secure] <Camilav18_YT> DORMIIIIIIIIIIIIIIIIIIIIIIIII
+[20:21:22] [Async Chat Thread - #11/INFO]: [Not Secure] <elguatavo7u7159> ya
+[20:21:23] [Async Chat Thread - #11/INFO]: [Not Secure] <elguatavo7u7159> ya
+[20:21:24] [Async Chat Thread - #12/INFO]: [Not Secure] <elguatavo7u7159> z
+[20:21:24] [Async Chat Thread - #11/INFO]: [Not Secure] <elguatavo7u7159> z
+[20:21:24] [Async Chat Thread - #11/INFO]: [Not Secure] <elguatavo7u7159> z
+[20:21:25] [Async Chat Thread - #12/INFO]: [Not Secure] <elguatavo7u7159> z
+[20:21:25] [Async Chat Thread - #12/INFO]: [Not Secure] <elguatavo7u7159> z
+[20:21:25] [Async Chat Thread - #12/INFO]: [Not Secure] <elguatavo7u7159> z
+[20:21:25] [Async Chat Thread - #12/INFO]: [Not Secure] <elguatavo7u7159> z
+[20:21:25] [Async Chat Thread - #12/INFO]: [Not Secure] <elguatavo7u7159> z
+[20:21:25] [Async Chat Thread - #11/INFO]: [Not Secure] <elguatavo7u7159> z
+[20:21:32] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x200) .003713 /gl 56
+[20:21:40] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x200) .006130 /gl 57
+[20:22:04] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x200) .001151 /gl 58
+[20:23:17] [Server thread/INFO]: Villager Villager['Villager'/15166, uuid='4466cd80-7f61-49f6-9b31-a15427d5584b', l='ServerLevel[world]', x=575.63, y=72.00, z=-862.72, cpos=[35, -54], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[20:23:34] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x200) .001048 /gl 59
+[20:23:43] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x200) .002460 /gl 60
+[20:25:41] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x240) .001101 /gl 61
+[20:25:45] [Server thread/INFO]: Grim » Camilav18_YT failed NoSlow (x10) 
+[20:26:17] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x280) .004815 /gl 62
+[20:28:36] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x280) .002025 /gl 63
+[20:28:49] [Async Chat Thread - #13/INFO]: [Not Secure] <Camilav18_YT> ya regreso me estan llamando
+[20:31:05] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[20:31:05] [Server thread/INFO]: elguatavo7u7159 left the game
+[20:31:42] [User Authenticator #3/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[20:31:43] [Craft Scheduler Thread - 196 - GrimAC/INFO]: [GrimAC] Disconnecting Camilav18_YT for disconnect.timeout
+[20:31:43] [Server thread/INFO]: Camilav18_YT lost connection: disconnect.timeout
+[20:31:43] [Server thread/INFO]: Camilav18_YT left the game
+[20:31:43] [Server thread/INFO]: elguatavo7u7159 joined the game
+[20:31:43] [Server thread/INFO]: elguatavo7u7159[/127.26.227.173:55009] logged in with entity id 19412 at ([world]65.69999998807907, 68.0, 60.69999998807907)
