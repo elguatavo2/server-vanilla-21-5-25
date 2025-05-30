@@ -458,3 +458,16 @@ java.lang.IllegalStateException: zip file closed
 [01:58:34] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:43597] logged in with entity id 32413 at ([world]32.69784759215142, 65.0, 211.58060694902335)
 [01:59:45] [Async Chat Thread - #52/INFO]: [Not Secure] <ThiaguitoOwO2021> YO NO FUI{
 [01:59:47] [Async Chat Thread - #52/INFO]: [Not Secure] <ThiaguitoOwO2021> LO JURO
+[02:04:38] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[02:04:38] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[02:05:17] [User Authenticator #26/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[02:05:18] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[02:05:18] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:59761] logged in with entity id 34006 at ([world]98.029188635768, 89.0, 167.93966793503412)
+[02:05:34] [Server thread/INFO]: Villager Villager['Mason'/22, uuid='c0c5d7a9-c828-4b95-b676-b1cc8ec6caf8', l='ServerLevel[world]', x=12.11, y=64.00, z=90.29, cpos=[0, 5], tl=292639, v=true] died, message: 'Mason was slain by Zombie'
+[02:05:39] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[02:05:39] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[02:06:35] [User Authenticator #27/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[02:06:37] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[02:06:37] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:33109] logged in with entity id 34265 at ([world]96.12909197910085, 68.0, 167.17777292942787)
+[02:10:39] [Server thread/INFO]: elpanajose lost connection: Disconnected
+[02:10:39] [Server thread/INFO]: elpanajose left the game
