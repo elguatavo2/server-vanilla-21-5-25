@@ -340,3 +340,14 @@ java.lang.IllegalStateException: zip file closed
 [20:31:43] [Server thread/INFO]: Camilav18_YT left the game
 [20:31:43] [Server thread/INFO]: elguatavo7u7159 joined the game
 [20:31:43] [Server thread/INFO]: elguatavo7u7159[/127.26.227.173:55009] logged in with entity id 19412 at ([world]65.69999998807907, 68.0, 60.69999998807907)
+[20:34:18] [User Authenticator #4/INFO]: UUID of player Camilav18_YT is 09efd2da-53aa-3c83-9f8e-e5223a0a5192
+[20:34:33] [Server thread/INFO]: Camilav18_YT joined the game
+[20:34:33] [Server thread/INFO]: Camilav18_YT[/127.242.56.188:53485] logged in with entity id 19972 at ([world]336.30000001192093, 56.0, -1299.699999988079)
+[20:34:37] [Async Chat Thread - #15/INFO]: [Not Secure] <elguatavo7u7159> pe
+[20:35:11] [Async Chat Thread - #15/INFO]: [Not Secure] <Camilav18_YT> ya regrese
+[20:35:32] [Server thread/INFO]: Grim » Camilav18_YT failed NoSlow (x10) 
+[20:35:32] [Server thread/INFO]: Grim » Camilav18_YT failed NoSlow (x15) 
+[20:35:33] [Server thread/INFO]: Grim » Camilav18_YT failed NoSlow (x20) 
+[20:35:36] [Server thread/INFO]: Grim » Camilav18_YT failed NoSlow (x25) 
+[20:39:17] [Server thread/INFO]: Camilav18_YT lost connection: Disconnected
+[20:39:17] [Server thread/INFO]: Camilav18_YT left the game
