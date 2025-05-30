@@ -438,3 +438,23 @@ java.lang.IllegalStateException: zip file closed
 [01:52:51] [Server thread/INFO]: MrCreeper_143 joined the game
 [01:52:51] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:34181] logged in with entity id 30777 at ([world]70.12456363075884, 63.0, 153.60683316227403)
 [01:53:02] [Server thread/INFO]: MrCreeper_143 was burned to a crisp while fighting elpanajose
+[01:53:54] [Async Chat Thread - #50/INFO]: [Not Secure] <MrCreeper_143> jose
+[01:56:26] [Netty Epoll Server IO #2/INFO]: [GrimAC] Disconnecting MrCreeper_143 for spamming invalid packets, packets cancelled within a second 101
+[01:56:26] [Netty Epoll Server IO #2/INFO]: [GrimAC] Disconnecting MrCreeper_143 for disconnect.closed
+[01:56:26] [Server thread/INFO]: MrCreeper_143 lost connection: disconnect.closed
+[01:56:26] [Server thread/INFO]: MrCreeper_143 left the game
+[01:56:37] [User Authenticator #24/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[01:56:38] [Server thread/INFO]: MrCreeper_143 joined the game
+[01:56:38] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:39943] logged in with entity id 31697 at ([world]-7.241988856934234, 64.0, 231.27555328864386)
+[01:57:15] [Server thread/INFO]: MrCreeper_143 lost connection: Timed out
+[01:57:15] [Server thread/INFO]: MrCreeper_143 left the game
+[01:57:47] [User Authenticator #25/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[01:57:48] [Server thread/INFO]: MrCreeper_143 joined the game
+[01:57:48] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:54001] logged in with entity id 32057 at ([world]-7.241988856934234, 64.00000019999999, 231.27555328864386)
+[01:58:27] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
+[01:58:27] [Server thread/INFO]: MrCreeper_143 left the game
+[01:58:33] [User Authenticator #25/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[01:58:34] [Server thread/INFO]: MrCreeper_143 joined the game
+[01:58:34] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:43597] logged in with entity id 32413 at ([world]32.69784759215142, 65.0, 211.58060694902335)
+[01:59:45] [Async Chat Thread - #52/INFO]: [Not Secure] <ThiaguitoOwO2021> YO NO FUI{
+[01:59:47] [Async Chat Thread - #52/INFO]: [Not Secure] <ThiaguitoOwO2021> LO JURO
