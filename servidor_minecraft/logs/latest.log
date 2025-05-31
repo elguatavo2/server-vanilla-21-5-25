@@ -163,3 +163,7 @@ java.lang.IllegalStateException: zip file closed
 [23:05:34] [Server thread/INFO]: elguatavo7u7159[/127.205.106.234:35537] logged in with entity id 1 at ([world]66.15738030067509, 71.0, 62.28524609882334)
 [23:05:36] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 6ba5403b-066a-42b6-9a37-559e1352582f, mapped to Bat['Bat'/128, uuid='6ba5403b-066a-42b6-9a37-559e1352582f', l='ServerLevel[world]', x=93.13, y=-3.99, z=127.52, cpos=[5, 7], tl=821, v=true], can't add Bat['Bat'/152, uuid='6ba5403b-066a-42b6-9a37-559e1352582f', l='ServerLevel[world]', x=91.75, y=-4.88, z=128.84, cpos=[5, 8], tl=836, v=false]
 [23:05:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2556ms or 51 ticks behind
+[23:11:45] [User Authenticator #1/INFO]: UUID of player NAT3333 is fdb66e07-9cc9-31fb-8fe6-a22936d04d0b
+[23:11:48] [Server thread/INFO]: NAT3333 joined the game
+[23:11:48] [Server thread/INFO]: NAT3333[/127.81.157.27:56923] logged in with entity id 1340 at ([world]21.30000001192093, 62.0, 115.69999998807907)
+[23:19:08] [Server thread/INFO]: NAT3333 has made the advancement [Suit Up]
