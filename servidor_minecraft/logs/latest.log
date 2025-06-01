@@ -114,3 +114,6 @@
 [02:25:21] [Async Chat Thread - #45/INFO]: [Not Secure] <elguatavo7u7159> DEJO EL SERVER PRENDIO PE CHUA
 [02:25:23] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
 [02:25:23] [Server thread/INFO]: elguatavo7u7159 left the game
+[02:35:08] [Server thread/INFO]: Grim » NAT3333 failed Simulation (x114) .001067 /gl 1
+[02:36:37] [Server thread/INFO]: Grim » NAT3333 failed Simulation (x115) .180035 /gl 2
+[02:38:51] [Server thread/INFO]: Villager Villager['Villager'/45213, uuid='0979374f-a810-43c8-95f4-4814cf8d2836', l='ServerLevel[world]', x=47.60, y=64.00, z=76.30, cpos=[2, 4], tl=270827, v=true] died, message: 'Villager was squished too much'
