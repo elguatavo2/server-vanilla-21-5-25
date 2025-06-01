@@ -117,3 +117,9 @@
 [02:35:08] [Server thread/INFO]: Grim » NAT3333 failed Simulation (x114) .001067 /gl 1
 [02:36:37] [Server thread/INFO]: Grim » NAT3333 failed Simulation (x115) .180035 /gl 2
 [02:38:51] [Server thread/INFO]: Villager Villager['Villager'/45213, uuid='0979374f-a810-43c8-95f4-4814cf8d2836', l='ServerLevel[world]', x=47.60, y=64.00, z=76.30, cpos=[2, 4], tl=270827, v=true] died, message: 'Villager was squished too much'
+[02:44:47] [Server thread/INFO]: Villager Villager['Villager'/45215, uuid='f8f136e1-0d90-4a74-8c03-acbbaf727957', l='ServerLevel[world]', x=47.60, y=64.00, z=76.32, cpos=[2, 4], tl=145122, v=true] died, message: 'Villager was squished too much'
+[02:44:48] [Server thread/INFO]: Villager Villager['Villager'/45207, uuid='be288881-5fc3-4f4b-a575-9ff4a6eaf11f', l='ServerLevel[world]', x=47.62, y=64.00, z=76.59, cpos=[2, 4], tl=160784, v=true] died, message: 'Villager was squished too much'
+[02:50:46] [Server thread/INFO]: NAT3333 has made the advancement [Not Today, Thank You]
+[02:51:54] [Server thread/INFO]: Villager Villager['Fletcher'/45173, uuid='2bc8a5d7-5335-4809-b75c-bbe02a7b68b3', l='ServerLevel[world]', x=64.70, y=68.00, z=61.70, cpos=[4, 3], tl=1010479, v=true] died, message: 'Fletcher was slain by Zombie'
+[02:53:08] [Server thread/INFO]: NAT3333 lost connection: Disconnected
+[02:53:08] [Server thread/INFO]: NAT3333 left the game
