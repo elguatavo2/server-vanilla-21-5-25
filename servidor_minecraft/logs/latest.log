@@ -170,3 +170,7 @@ java.lang.IllegalStateException: zip file closed
 [20:44:31] [Async Chat Thread - #1/INFO]: [Not Secure] <ThiaguitoOwO2021> .1544 72
 [20:45:28] [Async Chat Thread - #0/INFO]: [Not Secure] <elguatavo7u7159> -1856 650
 [20:46:29] [Server thread/WARN]: ThiaguitoOwO2021 moved wrongly!
+[20:54:45] [Server thread/INFO]: elguatavo7u7159 has reached the goal [Sky's the Limit]
+[20:57:27] [User Authenticator #2/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[20:57:31] [Server thread/INFO]: MrCreeper_143 joined the game
+[20:57:31] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:49967] logged in with entity id 4272 at ([world]111.30000001192093, 86.0, 122.22882330489071)
