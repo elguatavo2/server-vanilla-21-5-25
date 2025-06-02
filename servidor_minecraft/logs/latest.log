@@ -338,3 +338,24 @@ java.lang.IllegalStateException: zip file closed
 [22:44:12] [Server thread/INFO]: elguatavo7u7159 joined the game
 [22:44:12] [Server thread/INFO]: elguatavo7u7159[/127.169.176.95:46479] logged in with entity id 40128 at ([world]75.6906647692026, 65.0, 74.35424896774292)
 [22:44:16] [Server thread/INFO]: Villager Villager['Villager'/40179, uuid='2d6ef6bb-1a48-4f3b-84c0-ed1c4f49d342', l='ServerLevel[world]', x=47.64, y=64.00, z=76.30, cpos=[2, 4], tl=43088, v=true] died, message: 'Villager was squished too much'
+[22:51:42] [Server thread/INFO]: Villager Villager['Villager'/40194, uuid='52497720-4160-465e-82b4-dca4c3736f50', l='ServerLevel[world]', x=47.18, y=64.00, z=76.30, cpos=[2, 4], tl=283159, v=true] died, message: 'Villager was squished too much'
+[22:51:42] [Server thread/INFO]: Villager Villager['Villager'/40197, uuid='3b5991a7-4288-4a40-a582-1bbee5c8833c', l='ServerLevel[world]', x=47.58, y=64.00, z=76.30, cpos=[2, 4], tl=24056, v=true] died, message: 'Villager was squished too much'
+[22:54:20] [User Authenticator #20/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[22:54:21] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[22:54:21] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:44915] logged in with entity id 41626 at ([world]76.76249998807907, 65.0, 71.94187155176455)
+[22:54:55] [Async Chat Thread - #27/INFO]: [Not Secure] <ThiaguitoOwO2021> CI
+[22:54:58] [Async Chat Thread - #27/INFO]: [Not Secure] <ThiaguitoOwO2021> SI
+[22:55:21] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[22:55:21] [Server thread/INFO]: elguatavo7u7159 left the game
+[22:55:34] [User Authenticator #21/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[22:55:35] [Server thread/INFO]: elguatavo7u7159 joined the game
+[22:55:35] [Server thread/INFO]: elguatavo7u7159[/127.169.176.95:50875] logged in with entity id 41831 at ([world]61.1605647920239, 63.0, 82.36114367366037)
+[22:55:59] [Async Chat Thread - #29/INFO]: [Not Secure] <ThiaguitoOwO2021> hagamos el automatico pe
+[22:57:22] [Server thread/INFO]: Villager Villager['Villager'/40173, uuid='8a502219-0d3d-44ec-92b0-6e459f064ea1', l='ServerLevel[world]', x=47.64, y=64.00, z=76.70, cpos=[2, 4], tl=269792, v=true] died, message: 'Villager was squished too much'
+[22:58:17] [Async Chat Thread - #31/INFO]: [Not Secure] <ThiaguitoOwO2021> oe me ivas a dar una espada?
+[22:58:35] [User Authenticator #22/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[22:58:53] [Server thread/INFO]: mechajuan3 joined the game
+[22:58:53] [Server thread/INFO]: mechajuan3[/127.241.198.181:41517] logged in with entity id 42340 at ([world]-0.5, 69.0, -7.5)
+[22:58:56] [Async Chat Thread - #31/INFO]: [Not Secure] <ThiaguitoOwO2021> mhmhmgkwof
+[22:59:04] [Async Chat Thread - #31/INFO]: [Not Secure] <ThiaguitoOwO2021> ningunno pe
+[23:00:29] [Server thread/INFO]: mechajuan3 has made the advancement [Suit Up]
