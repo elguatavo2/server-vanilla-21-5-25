@@ -324,3 +324,6 @@ java.lang.IllegalStateException: zip file closed
 [22:19:21] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
 [22:19:21] [Server thread/INFO]: MrCreeper_143 left the game
 [22:19:24] [Async Chat Thread - #24/INFO]: [Not Secure] <ThiaguitoOwO2021> XD
+[22:27:36] [User Authenticator #18/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[22:27:36] [Server thread/INFO]: elguatavo7u7159 joined the game
+[22:27:36] [Server thread/INFO]: elguatavo7u7159[/127.169.176.95:48319] logged in with entity id 37926 at ([world]58.435861787860794, 62.9375, 88.97137619655456)
