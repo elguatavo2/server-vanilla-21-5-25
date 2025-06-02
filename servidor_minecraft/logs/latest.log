@@ -219,3 +219,5 @@ java.lang.IllegalStateException: zip file closed
 [01:01:54] [Async Chat Thread - #16/INFO]: [Not Secure] <ThiaguitoOwO2021> 6 116 12
 [01:02:46] [Async Chat Thread - #16/INFO]: [Not Secure] <elguatavo7u7159> 206 37
 [01:06:05] [Server thread/INFO]: Villager Villager['Villager'/18275, uuid='4773d21a-b4ff-45f8-bc3c-26891c6778fd', l='ServerLevel[world]', x=47.64, y=64.00, z=76.70, cpos=[2, 4], tl=335588, v=true] died, message: 'Villager was squished too much'
+[01:09:22] [Async Chat Thread - #17/INFO]: [Not Secure] <ThiaguitoOwO2021> ZZzz
+[01:12:16] [Server thread/INFO]: Villager Villager['Villager'/18276, uuid='d913b232-a1f2-464b-a0a9-bc87490f6d22', l='ServerLevel[world]', x=47.64, y=64.00, z=76.70, cpos=[2, 4], tl=25237, v=true] died, message: 'Villager was squished too much'
