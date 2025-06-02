@@ -177,3 +177,11 @@ java.lang.IllegalStateException: zip file closed
 [00:34:19] [Async Chat Thread - #2/INFO]: [Not Secure] <ThiaguitoOwO2021> voy
 [00:34:26] [Server thread/INFO]: elguatavo7u7159 issued server command: /seed
 [00:34:29] [Async Chat Thread - #2/INFO]: [Not Secure] <elguatavo7u7159> 804531838313630285
+[00:38:35] [Async Chat Thread - #3/INFO]: [Not Secure] <elguatavo7u7159> 1680 -320
+[00:43:06] [Server thread/INFO]: Villager Villager['Villager'/586, uuid='e908954c-bd5e-4b68-8685-809c595d6ca6', l='ServerLevel[world]', x=47.61, y=64.00, z=76.30, cpos=[2, 4], tl=346040, v=true] died, message: 'Villager was squished too much'
+[00:44:09] [Server thread/INFO]: Villager Villager['Villager'/595, uuid='6f5d3711-7301-4766-aba3-8a4dbb63f236', l='ServerLevel[world]', x=47.64, y=64.00, z=76.30, cpos=[2, 4], tl=42485, v=true] died, message: 'Villager was squished too much'
+[00:45:44] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[00:45:44] [Server thread/INFO]: elguatavo7u7159 left the game
+[00:45:56] [User Authenticator #3/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[00:45:56] [Server thread/INFO]: elguatavo7u7159 joined the game
+[00:45:56] [Server thread/INFO]: elguatavo7u7159[/127.205.106.234:36763] logged in with entity id 9563 at ([world]1125.8609644400926, 62.5875, -427.73321373805766)
