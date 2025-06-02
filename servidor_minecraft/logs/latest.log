@@ -285,3 +285,14 @@ java.lang.IllegalStateException: zip file closed
 [21:47:21] [Async Chat Thread - #16/INFO]: [Not Secure] <ThiaguitoOwO2021> -2776 -200
 [21:49:15] [Async Chat Thread - #19/INFO]: [Not Secure] <ThiaguitoOwO2021> -2520 -920
 [21:49:16] [Server thread/INFO]: Villager Villager['Villager'/21736, uuid='a6c92f9f-e502-468b-be3b-950fb5b64a9b', l='ServerLevel[world]', x=47.59, y=64.00, z=76.30, cpos=[2, 4], tl=358753, v=true] died, message: 'Villager was squished too much'
+[21:51:07] [Server thread/INFO]: Villager Villager['Villager'/21743, uuid='fc44eb67-4d06-47ed-aec7-c5b3f7b7261a', l='ServerLevel[world]', x=47.65, y=64.00, z=76.30, cpos=[2, 4], tl=253705, v=true] died, message: 'Villager was squished too much'
+[21:53:23] [Server thread/INFO]: ThiaguitoOwO2021 was doomed to fall by Shulker
+[21:53:50] [Server thread/INFO]: MrCreeper_143 has made the advancement [We Need to Go Deeper]
+[21:54:46] [Server thread/INFO]: MrCreeper_143 has made the advancement [Eye Spy]
+[21:54:53] [User Authenticator #14/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[21:54:54] [Server thread/INFO]: elguatavo7u7159 joined the game
+[21:54:54] [Server thread/INFO]: elguatavo7u7159[/127.169.176.95:36727] logged in with entity id 28309 at ([world_the_end]-4172.300000011921, 159.0, -1235.699999988079)
+[21:55:26] [Async Chat Thread - #21/INFO]: [Not Secure] <ThiaguitoOwO2021> -2520 -920
+[21:56:56] [Server thread/INFO]: MrCreeper_143 has made the advancement [The End?]
+[21:58:29] [Server thread/INFO]: MrCreeper_143 has reached the goal [The Next Generation]
+[21:58:32] [Server thread/INFO]: Villager Villager['Villager'/27607, uuid='ae3f0f2e-ea84-4f9a-bdfe-70888f7de81e', l='ServerLevel[world]', x=47.63, y=64.00, z=76.30, cpos=[2, 4], tl=43106, v=true] died, message: 'Villager was squished too much'
