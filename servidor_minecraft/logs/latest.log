@@ -264,3 +264,24 @@ java.lang.IllegalStateException: zip file closed
 [21:38:38] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:58645] logged in with entity id 20559 at ([world]101.61774262944364, 66.0, 111.69999998807907)
 [21:38:41] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
 [21:38:41] [Server thread/INFO]: elguatavo7u7159 left the game
+[21:39:41] [Craft Scheduler Thread - 248 - GrimAC/INFO]: [GrimAC] Disconnecting MrCreeper_143 for disconnect.timeout
+[21:39:41] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
+[21:39:42] [Server thread/INFO]: MrCreeper_143 left the game
+[21:40:02] [User Authenticator #12/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[21:40:04] [Server thread/INFO]: MrCreeper_143 joined the game
+[21:40:04] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:38533] logged in with entity id 21133 at ([world]101.61774262944364, 66.0000001, 111.69999998807907)
+[21:40:37] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
+[21:40:37] [Server thread/INFO]: MrCreeper_143 left the game
+[21:40:50] [User Authenticator #12/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[21:40:51] [Server thread/INFO]: MrCreeper_143 joined the game
+[21:40:51] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:59261] logged in with entity id 21568 at ([world]100.79447819122151, 66.0, 110.37160470108346)
+[21:41:58] [User Authenticator #13/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[21:41:59] [Server thread/INFO]: elguatavo7u7159 joined the game
+[21:41:59] [Server thread/INFO]: elguatavo7u7159[/127.169.176.95:33675] logged in with entity id 22162 at ([world_the_end]-4180.799892159888, 160.0, -1236.2962968720958)
+[21:42:32] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[21:42:32] [Server thread/INFO]: elguatavo7u7159 left the game
+[21:43:45] [Server thread/INFO]: Grim » MrCreeper_143 failed BadPacketsE (x20) ticks=22
+[21:45:24] [Async Chat Thread - #14/INFO]: [Not Secure] <ThiaguitoOwO2021> -2.200 40
+[21:47:21] [Async Chat Thread - #16/INFO]: [Not Secure] <ThiaguitoOwO2021> -2776 -200
+[21:49:15] [Async Chat Thread - #19/INFO]: [Not Secure] <ThiaguitoOwO2021> -2520 -920
+[21:49:16] [Server thread/INFO]: Villager Villager['Villager'/21736, uuid='a6c92f9f-e502-468b-be3b-950fb5b64a9b', l='ServerLevel[world]', x=47.59, y=64.00, z=76.30, cpos=[2, 4], tl=358753, v=true] died, message: 'Villager was squished too much'
