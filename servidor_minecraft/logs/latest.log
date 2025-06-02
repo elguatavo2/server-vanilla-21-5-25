@@ -201,3 +201,21 @@ java.lang.IllegalStateException: zip file closed
 [00:54:38] [Async Chat Thread - #7/INFO]: [Not Secure] <ThiaguitoOwO2021> gus?
 [00:54:44] [Server thread/INFO]: Villager Villager['Villager'/12750, uuid='d53adf4b-756d-43b8-ab62-d72ffe3b3bf0', l='ServerLevel[world]', x=47.56, y=64.00, z=76.45, cpos=[2, 4], tl=61133, v=true] died, message: 'Villager was squished too much'
 [00:55:52] [Async Chat Thread - #9/INFO]: [Not Secure] <ThiaguitoOwO2021> no t escucho pe
+[00:57:04] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode spectator
+[00:57:04] [Server thread/INFO]: [elguatavo7u7159: Set own game mode to Spectator Mode]
+[00:57:05] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode survival
+[00:57:05] [Server thread/INFO]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[00:57:40] [Async Chat Thread - #12/INFO]: [Not Secure] <ThiaguitoOwO2021> duerma
+[00:57:44] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[00:57:44] [Server thread/INFO]: elguatavo7u7159 left the game
+[00:57:58] [User Authenticator #5/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[00:57:59] [Server thread/INFO]: elguatavo7u7159 joined the game
+[00:57:59] [Server thread/INFO]: elguatavo7u7159[/127.205.106.234:43141] logged in with entity id 15521 at ([world]1645.3646489919547, -1.0, -299.500389068863)
+[00:58:02] [Async Chat Thread - #12/INFO]: [Not Secure] <ThiaguitoOwO2021> pe
+[00:58:08] [Async Chat Thread - #12/INFO]: [Not Secure] <ThiaguitoOwO2021> porq no habla
+[00:58:12] [Async Chat Thread - #11/INFO]: [Not Secure] <ThiaguitoOwO2021> entro al portal?
+[01:00:29] [Async Chat Thread - #14/INFO]: [Not Secure] <ThiaguitoOwO2021> pe responda
+[01:01:37] [Async Chat Thread - #16/INFO]: [Not Secure] <ThiaguitoOwO2021> 3 116 16
+[01:01:54] [Async Chat Thread - #16/INFO]: [Not Secure] <ThiaguitoOwO2021> 6 116 12
+[01:02:46] [Async Chat Thread - #16/INFO]: [Not Secure] <elguatavo7u7159> 206 37
+[01:06:05] [Server thread/INFO]: Villager Villager['Villager'/18275, uuid='4773d21a-b4ff-45f8-bc3c-26891c6778fd', l='ServerLevel[world]', x=47.64, y=64.00, z=76.70, cpos=[2, 4], tl=335588, v=true] died, message: 'Villager was squished too much'
