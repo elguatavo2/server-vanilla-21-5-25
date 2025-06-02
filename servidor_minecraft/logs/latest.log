@@ -296,3 +296,15 @@ java.lang.IllegalStateException: zip file closed
 [21:56:56] [Server thread/INFO]: MrCreeper_143 has made the advancement [The End?]
 [21:58:29] [Server thread/INFO]: MrCreeper_143 has reached the goal [The Next Generation]
 [21:58:32] [Server thread/INFO]: Villager Villager['Villager'/27607, uuid='ae3f0f2e-ea84-4f9a-bdfe-70888f7de81e', l='ServerLevel[world]', x=47.63, y=64.00, z=76.30, cpos=[2, 4], tl=43106, v=true] died, message: 'Villager was squished too much'
+[22:01:46] [Async Chat Thread - #23/INFO]: [Not Secure] <elguatavo7u7159> -3200 -850
+[22:03:55] [Server thread/INFO]: ThiaguitoOwO2021 was slain by Zombie
+[22:05:03] [Server thread/INFO]: elguatavo7u7159 has reached the goal [The Next Generation]
+[22:06:46] [Server thread/INFO]: Villager Villager['Villager'/27604, uuid='b1875d5c-32bf-431c-b4e8-12a8f34d41cd', l='ServerLevel[world]', x=47.64, y=64.00, z=76.30, cpos=[2, 4], tl=32985, v=true] died, message: 'Villager was squished too much'
+[22:08:38] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
+[22:08:38] [Server thread/INFO]: MrCreeper_143 left the game
+[22:08:53] [User Authenticator #15/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[22:08:55] [Server thread/INFO]: MrCreeper_143 joined the game
+[22:08:55] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:43445] logged in with entity id 34043 at ([world]73.1619002784998, 63.0, 93.37986061842412)
+[22:09:39] [Server thread/INFO]: MrCreeper_143 was slain by elguatavo7u7159
+[22:10:11] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[22:10:11] [Server thread/INFO]: elguatavo7u7159 left the game
