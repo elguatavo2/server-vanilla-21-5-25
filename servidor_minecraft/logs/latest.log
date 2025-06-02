@@ -174,3 +174,12 @@ java.lang.IllegalStateException: zip file closed
 [20:57:27] [User Authenticator #2/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
 [20:57:31] [Server thread/INFO]: MrCreeper_143 joined the game
 [20:57:31] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:49967] logged in with entity id 4272 at ([world]111.30000001192093, 86.0, 122.22882330489071)
+[21:00:19] [Async Chat Thread - #2/INFO]: [Not Secure] <MrCreeper_143> zz
+[21:00:39] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[21:00:39] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[21:05:35] [Server thread/INFO]: MrCreeper_143 lost connection: Timed out
+[21:05:35] [Server thread/INFO]: MrCreeper_143 left the game
+[21:06:00] [User Authenticator #3/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[21:06:01] [Server thread/INFO]: MrCreeper_143 joined the game
+[21:06:01] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:55455] logged in with entity id 7054 at ([world]77.15912712803122, 65.875, 69.60043369365512)
+[21:07:50] [Async Chat Thread - #4/INFO]: [Not Secure] <elguatavo7u7159> -2768 -200
