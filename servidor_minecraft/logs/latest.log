@@ -308,3 +308,19 @@ java.lang.IllegalStateException: zip file closed
 [22:09:39] [Server thread/INFO]: MrCreeper_143 was slain by elguatavo7u7159
 [22:10:11] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
 [22:10:11] [Server thread/INFO]: elguatavo7u7159 left the game
+[22:10:55] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
+[22:10:55] [Server thread/INFO]: MrCreeper_143 left the game
+[22:11:37] [User Authenticator #16/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[22:11:39] [Server thread/INFO]: MrCreeper_143 joined the game
+[22:11:39] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:36043] logged in with entity id 34659 at ([world]70.84406549905563, 62.0, 84.20608450763359)
+[22:12:19] [Server thread/INFO]: MrCreeper_143 lost connection: Timed out
+[22:12:19] [Server thread/INFO]: MrCreeper_143 left the game
+[22:15:01] [Server thread/INFO]: Villager Villager['Villager'/27605, uuid='71e21b46-1cab-44fe-9f17-07b52c01344b', l='ServerLevel[world]', x=47.64, y=64.00, z=76.30, cpos=[2, 4], tl=34468, v=true] died, message: 'Villager was squished too much'
+[22:18:21] [User Authenticator #17/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[22:18:26] [Server thread/INFO]: MrCreeper_143 joined the game
+[22:18:26] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:59119] logged in with entity id 35840 at ([world]65.86666291703587, 66.17675927506424, 72.15788904568994)
+[22:19:21] [Netty Epoll Server IO #3/INFO]: [GrimAC] Disconnecting MrCreeper_143 for spamming invalid packets, packets cancelled within a second 101
+[22:19:21] [Netty Epoll Server IO #3/INFO]: [GrimAC] Disconnecting MrCreeper_143 for disconnect.closed
+[22:19:21] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
+[22:19:21] [Server thread/INFO]: MrCreeper_143 left the game
+[22:19:24] [Async Chat Thread - #24/INFO]: [Not Secure] <ThiaguitoOwO2021> XD
