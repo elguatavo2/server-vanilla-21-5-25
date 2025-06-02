@@ -218,3 +218,49 @@ java.lang.IllegalStateException: zip file closed
 [21:25:47] [Server thread/INFO]: Josuux_x1 has made the advancement [Eye Spy]
 [21:28:06] [Server thread/INFO]: Josuux_x1 has made the advancement [The End?]
 [21:28:09] [Server thread/INFO]: Villager Villager['Villager'/7122, uuid='e4dda91a-1479-48a8-afaf-7b38ebbc2f30', l='ServerLevel[world]', x=47.64, y=64.00, z=76.70, cpos=[2, 4], tl=54643, v=true] died, message: 'Villager was squished too much'
+[21:29:52] [User Authenticator #8/INFO]: UUID of player Camilav18_YT is 09efd2da-53aa-3c83-9f8e-e5223a0a5192
+[21:30:09] [Server thread/INFO]: Camilav18_YT joined the game
+[21:30:09] [Server thread/INFO]: Camilav18_YT[/127.242.56.188:58379] logged in with entity id 16545 at ([world]336.30000001192093, 56.0, -1299.699999988079)
+[21:30:14] [Async Chat Thread - #8/INFO]: [Not Secure] <elguatavo7u7159> -4080 -1250
+[21:30:54] [Async Chat Thread - #8/INFO]: [Not Secure] <Camilav18_YT> hola
+[21:31:13] [Async Chat Thread - #8/INFO]: [Not Secure] <MrCreeper_143> quien sos
+[21:31:26] [Async Chat Thread - #9/INFO]: [Not Secure] <Camilav18_YT> tu novia
+[21:31:32] [Async Chat Thread - #8/INFO]: [Not Secure] <Josuux_x1> jajajaja
+[21:31:44] [Netty Epoll Server IO #2/INFO]: [GrimAC] Disconnecting MrCreeper_143 for spamming invalid packets, packets cancelled within a second 101
+[21:31:44] [Async Chat Thread - #9/INFO]: [Not Secure] <MrCreeper_143> tas loco
+[21:31:44] [Netty Epoll Server IO #2/INFO]: [GrimAC] Disconnecting MrCreeper_143 for disconnect.closed
+[21:31:44] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
+[21:31:44] [Server thread/INFO]: MrCreeper_143 left the game
+[21:31:44] [Async Chat Thread - #8/INFO]: [Not Secure] <Camilav18_YT> CALLA
+[21:31:59] [Async Chat Thread - #9/INFO]: [Not Secure] <Camilav18_YT> TOY LAG
+[21:32:06] [User Authenticator #9/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[21:32:08] [Server thread/INFO]: MrCreeper_143 joined the game
+[21:32:08] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:42615] logged in with entity id 18070 at ([world]76.498133824334, 71.0, 62.96481172263589)
+[21:33:03] [Server thread/INFO]: MrCreeper_143 lost connection: Timed out
+[21:33:03] [Server thread/INFO]: MrCreeper_143 left the game
+[21:33:26] [Async Chat Thread - #11/INFO]: [Not Secure] <Camilav18_YT> TOY LAAAAAAAAAAG
+[21:33:45] [User Authenticator #10/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[21:33:46] [Server thread/INFO]: MrCreeper_143 joined the game
+[21:33:46] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:52067] logged in with entity id 18818 at ([world]76.40925736847852, 71.0, 62.52793422923383)
+[21:35:44] [Async Chat Thread - #12/INFO]: [Not Secure] <MrCreeper_143> jose dormite
+[21:35:55] [Async Chat Thread - #12/INFO]: [Not Secure] <MrCreeper_143> desconnectense los que no duermen
+[21:36:06] [Server thread/INFO]: Josuux_x1 lost connection: Disconnected
+[21:36:06] [Server thread/INFO]: Josuux_x1 left the game
+[21:36:25] [Async Chat Thread - #13/INFO]: [Not Secure] <MrCreeper_143> desconectateeeeeeeeeeeeee
+[21:36:50] [Server thread/INFO]: elguatavo7u7159 issued server command: /kick Camilav18_YT
+[21:36:50] [Server thread/INFO]: Camilav18_YT lost connection: Kicked by an operator
+[21:36:50] [Server thread/INFO]: Camilav18_YT left the game
+[21:36:50] [Server thread/INFO]: [elguatavo7u7159: Kicked Camilav18_YT: Kicked by an operator]
+[21:37:02] [User Authenticator #11/INFO]: UUID of player Josuux_x1 is 3f1e6808-f9d2-3de8-8a57-2ac5d73421bb
+[21:37:03] [Server thread/INFO]: Josuux_x1 (/127.223.178.195:36923) lost connection: Disconnected
+[21:37:38] [Server thread/INFO]: Villager Villager['Villager'/7120, uuid='09f24f3b-d788-422a-9520-c5e8a62dceba', l='ServerLevel[world]', x=47.65, y=64.00, z=76.70, cpos=[2, 4], tl=77041, v=true] died, message: 'Villager was squished too much'
+[21:37:55] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
+[21:37:55] [Server thread/INFO]: MrCreeper_143 left the game
+[21:38:01] [User Authenticator #11/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[21:38:02] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[21:38:02] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:57197] logged in with entity id 20394 at ([world_the_end]-1509.699999988079, 61.0, 63.53491937201031)
+[21:38:33] [User Authenticator #11/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[21:38:38] [Server thread/INFO]: MrCreeper_143 joined the game
+[21:38:38] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:58645] logged in with entity id 20559 at ([world]101.61774262944364, 66.0, 111.69999998807907)
+[21:38:41] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[21:38:41] [Server thread/INFO]: elguatavo7u7159 left the game
