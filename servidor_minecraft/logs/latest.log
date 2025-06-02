@@ -183,3 +183,33 @@ java.lang.IllegalStateException: zip file closed
 [21:06:01] [Server thread/INFO]: MrCreeper_143 joined the game
 [21:06:01] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:55455] logged in with entity id 7054 at ([world]77.15912712803122, 65.875, 69.60043369365512)
 [21:07:50] [Async Chat Thread - #4/INFO]: [Not Secure] <elguatavo7u7159> -2768 -200
+[21:09:22] [Server thread/INFO]: Villager Villager['Villager'/7125, uuid='67c9de0e-c1e9-45ba-9875-1067375dd8eb', l='ServerLevel[world]', x=47.58, y=64.00, z=76.70, cpos=[2, 4], tl=333862, v=true] died, message: 'Villager was squished too much'
+[21:12:08] [User Authenticator #4/INFO]: UUID of player Josuux_x1 is 3f1e6808-f9d2-3de8-8a57-2ac5d73421bb
+[21:12:10] [Server thread/INFO]: Josuux_x1 joined the game
+[21:12:10] [Server thread/INFO]: Josuux_x1[/127.223.178.195:42103] logged in with entity id 9171 at ([world]38.69999998807907, 63.0, 154.42475695977006)
+[21:12:36] [Server thread/INFO]: MrCreeper_143 lost connection: Timed out
+[21:12:36] [Server thread/INFO]: MrCreeper_143 left the game
+[21:12:44] [Server thread/INFO]: Villager Villager['Fletcher'/7084, uuid='b0d784b9-a1b0-4438-8b2b-208eed94ec0a', l='ServerLevel[world]', x=78.30, y=65.00, z=63.30, cpos=[4, 3], tl=1280436, v=true] died, message: 'Fletcher was slain by Zombie'
+[21:13:15] [User Authenticator #5/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[21:13:18] [Server thread/INFO]: MrCreeper_143 joined the game
+[21:13:18] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:59269] logged in with entity id 9509 at ([world]64.86296558053319, 65.0, 65.84130073659082)
+[21:14:08] [Server thread/INFO]: Villager Villager['Villager'/7252, uuid='fc4c23d1-8812-48d3-bb43-5fb1af4fb05a', l='ServerLevel[world]', x=11.03, y=65.02, z=108.70, cpos=[0, 6], tl=836604, v=true] died, message: 'Villager was slain by Zombie'
+[21:14:21] [Craft Scheduler Thread - 146 - GrimAC/INFO]: [GrimAC] Disconnecting MrCreeper_143 for disconnect.timeout
+[21:14:21] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
+[21:14:21] [Server thread/INFO]: MrCreeper_143 left the game
+[21:16:10] [User Authenticator #6/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[21:16:11] [Server thread/INFO]: MrCreeper_143 joined the game
+[21:16:11] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:38313] logged in with entity id 10282 at ([world]64.86296558053319, 65.0000001, 65.84130073659082)
+[21:17:16] [Craft Scheduler Thread - 158 - GrimAC/INFO]: [GrimAC] Disconnecting MrCreeper_143 for disconnect.timeout
+[21:17:16] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
+[21:17:16] [Server thread/INFO]: MrCreeper_143 left the game
+[21:17:31] [User Authenticator #7/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[21:17:33] [Server thread/INFO]: MrCreeper_143 joined the game
+[21:17:33] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:33885] logged in with entity id 10708 at ([world]77.30000001192093, 65.0, 64.79705927719895)
+[21:18:06] [Server thread/INFO]: MrCreeper_143 lost connection: Timed out
+[21:18:06] [Server thread/INFO]: MrCreeper_143 left the game
+[21:18:22] [User Authenticator #7/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[21:18:23] [Server thread/INFO]: MrCreeper_143 joined the game
+[21:18:23] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:48775] logged in with entity id 10954 at ([world]57.054799838234736, 71.09986815340318, 63.919253928578364)
+[21:18:25] [Async Chat Thread - #6/INFO]: [Not Secure] <elguatavo7u7159> -3800 -840
+[21:18:33] [Async Chat Thread - #6/INFO]: [Not Secure] <MrCreeper_143> aaaaaaaa
