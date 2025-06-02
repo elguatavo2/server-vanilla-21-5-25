@@ -332,3 +332,9 @@ java.lang.IllegalStateException: zip file closed
 [22:34:23] [Async Chat Thread - #25/INFO]: [Not Secure] <ThiaguitoOwO2021> ya regreso
 [22:34:25] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
 [22:34:25] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[22:42:23] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[22:42:23] [Server thread/INFO]: elguatavo7u7159 left the game
+[22:44:11] [User Authenticator #19/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[22:44:12] [Server thread/INFO]: elguatavo7u7159 joined the game
+[22:44:12] [Server thread/INFO]: elguatavo7u7159[/127.169.176.95:46479] logged in with entity id 40128 at ([world]75.6906647692026, 65.0, 74.35424896774292)
+[22:44:16] [Server thread/INFO]: Villager Villager['Villager'/40179, uuid='2d6ef6bb-1a48-4f3b-84c0-ed1c4f49d342', l='ServerLevel[world]', x=47.64, y=64.00, z=76.30, cpos=[2, 4], tl=43088, v=true] died, message: 'Villager was squished too much'
