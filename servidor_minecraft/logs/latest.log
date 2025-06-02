@@ -185,3 +185,19 @@ java.lang.IllegalStateException: zip file closed
 [00:45:56] [User Authenticator #3/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
 [00:45:56] [Server thread/INFO]: elguatavo7u7159 joined the game
 [00:45:56] [Server thread/INFO]: elguatavo7u7159[/127.205.106.234:36763] logged in with entity id 9563 at ([world]1125.8609644400926, 62.5875, -427.73321373805766)
+[00:46:38] [Async Chat Thread - #5/INFO]: [Not Secure] <ThiaguitoOwO2021> 1680 .320
+[00:46:49] [Async Chat Thread - #6/INFO]: [Not Secure] <ThiaguitoOwO2021> 1680 -320
+[00:49:18] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode spectator
+[00:49:18] [Server thread/INFO]: [elguatavo7u7159: Set own game mode to Spectator Mode]
+[00:49:22] [Server thread/INFO]: elguatavo7u7159 has made the advancement [Eye Spy]
+[00:49:23] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode survival
+[00:49:23] [Server thread/INFO]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[00:53:01] [Server thread/INFO]: Villager Villager['Villager'/12754, uuid='0411e9d9-4ce9-4191-a656-d432fe9008a7', l='ServerLevel[world]', x=47.63, y=64.00, z=76.40, cpos=[2, 4], tl=233819, v=true] died, message: 'Villager was squished too much'
+[00:54:20] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[00:54:20] [Server thread/INFO]: elguatavo7u7159 left the game
+[00:54:34] [User Authenticator #4/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[00:54:35] [Server thread/INFO]: elguatavo7u7159 joined the game
+[00:54:35] [Server thread/INFO]: elguatavo7u7159[/127.205.106.234:36853] logged in with entity id 14247 at ([world]1657.7500047167857, -1.0, -304.5047924141346)
+[00:54:38] [Async Chat Thread - #7/INFO]: [Not Secure] <ThiaguitoOwO2021> gus?
+[00:54:44] [Server thread/INFO]: Villager Villager['Villager'/12750, uuid='d53adf4b-756d-43b8-ab62-d72ffe3b3bf0', l='ServerLevel[world]', x=47.56, y=64.00, z=76.45, cpos=[2, 4], tl=61133, v=true] died, message: 'Villager was squished too much'
+[00:55:52] [Async Chat Thread - #9/INFO]: [Not Secure] <ThiaguitoOwO2021> no t escucho pe
