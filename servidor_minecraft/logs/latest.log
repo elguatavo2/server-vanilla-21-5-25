@@ -645,3 +645,50 @@ java.lang.IllegalStateException: zip file closed
 [21:05:56] [Async Chat Thread - #33/INFO]: [Not Secure] <ThiaguitoOwO2021> GUSTAVO
 [21:06:01] [Async Chat Thread - #33/INFO]: [Not Secure] <ThiaguitoOwO2021> 4 vidrios por una esmeralda
 [21:06:03] [Async Chat Thread - #33/INFO]: [Not Secure] <ThiaguitoOwO2021> ta bien?
+[21:10:06] [Server thread/INFO]: Villager Villager['Villager'/93429, uuid='3b10abad-961f-435a-a315-1454b0ba7240', l='ServerLevel[world_nether]', x=6.70, y=116.00, z=11.82, cpos=[0, 0], tl=41556, v=true] died, message: 'Villager was squished too much'
+[21:10:06] [Server thread/INFO]: Villager Villager['Villager'/93441, uuid='ed6ca38f-9382-4e77-9256-274810da7f68', l='ServerLevel[world_nether]', x=6.30, y=116.00, z=11.86, cpos=[0, 0], tl=51781, v=true] died, message: 'Villager was squished too much'
+[21:11:00] [Async Chat Thread - #36/INFO]: [Not Secure] <MrCreeper_143> jose orellana deja de tradear
+[21:11:05] [Async Chat Thread - #35/INFO]: [Not Secure] <elguatavo7u7159> chore
+[21:11:06] [Async Chat Thread - #35/INFO]: [Not Secure] <elguatavo7u7159> chore
+[21:11:08] [Async Chat Thread - #36/INFO]: [Not Secure] <elguatavo7u7159> chore
+[21:11:09] [Async Chat Thread - #36/INFO]: [Not Secure] <MrCreeper_143> necesito a los aldeanos
+[21:11:09] [Async Chat Thread - #36/INFO]: [Not Secure] <elguatavo7u7159> chore
+[21:13:28] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[21:13:28] [Server thread/INFO]: elguatavo7u7159 left the game
+[21:13:52] [User Authenticator #40/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[21:13:53] [Server thread/INFO]: elguatavo7u7159 joined the game
+[21:13:53] [Server thread/INFO]: elguatavo7u7159[/127.205.106.234:60281] logged in with entity id 95278 at ([world]-69.54762595841862, 69.0, -121.47384216081711)
+[21:15:05] [Server thread/INFO]: MrCreeper_143 lost connection: Timed out
+[21:15:05] [Server thread/INFO]: MrCreeper_143 left the game
+[21:15:15] [Async Chat Thread - #37/INFO]: [Not Secure] <ThiaguitoOwO2021> kiero convertilo en zombie primero
+[21:15:19] [Async Chat Thread - #37/INFO]: [Not Secure] <ThiaguitoOwO2021> como lo convierto pe
+[21:15:21] [Server thread/INFO]: Villager Villager['Villager'/96181, uuid='62c10b2a-5d57-4a7d-bf39-f5aa1f6fd605', l='ServerLevel[world_nether]', x=6.30, y=116.00, z=11.85, cpos=[0, 0], tl=55718, v=true] died, message: 'Villager was squished too much'
+[21:15:26] [Server thread/INFO]: Villager Villager['Villager'/96191, uuid='f4ca4020-02ef-48e4-86e8-47ed05519b71', l='ServerLevel[world_nether]', x=6.30, y=116.00, z=11.87, cpos=[0, 0], tl=51921, v=true] died, message: 'Villager was squished too much'
+[21:16:02] [User Authenticator #41/INFO]: UUID of player Emmanuel is b7b8b5a4-46a9-3634-a7a3-0b7ff73e39af
+[21:16:03] [Server thread/INFO]: Emmanuel joined the game
+[21:16:03] [Server thread/INFO]: Emmanuel[/127.1.246.137:57117] logged in with entity id 96626 at ([world]8.5, 69.0, 7.5)
+[21:16:22] [User Authenticator #41/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[21:16:25] [Server thread/INFO]: MrCreeper_143 joined the game
+[21:16:25] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:38529] logged in with entity id 96836 at ([world]53.03924981981635, 66.0, 71.76427622569564)
+[21:16:39] [Async Chat Thread - #39/INFO]: [Not Secure] <elguatavo7u7159> ./register 12345
+[21:16:57] [Server thread/INFO]: MrCreeper_143 lost connection: Timed out
+[21:16:57] [Server thread/INFO]: MrCreeper_143 left the game
+[21:16:58] [Async Chat Thread - #39/INFO]: [Not Secure] <ThiaguitoOwO2021> necesito 2.400 esmeraldas
+[21:17:20] [Async Chat Thread - #39/INFO]: [Not Secure] <ThiaguitoOwO2021> necesito 37 stacks de esmeraldas
+[21:17:26] [User Authenticator #42/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[21:17:28] [Server thread/INFO]: MrCreeper_143 joined the game
+[21:17:28] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:48583] logged in with entity id 97235 at ([world]53.03924981981635, 66.0000001, 71.76427622569564)
+[21:18:02] [Server thread/INFO]: MrCreeper_143 lost connection: Timed out
+[21:18:02] [Server thread/INFO]: MrCreeper_143 left the game
+[21:18:02] [Server thread/INFO]: Emmanuel lost connection: Login timed out!
+[21:18:02] [Server thread/INFO]: Emmanuel left the game
+[21:18:07] [User Authenticator #42/INFO]: UUID of player Emmanuel is b7b8b5a4-46a9-3634-a7a3-0b7ff73e39af
+[21:18:08] [Server thread/INFO]: Emmanuel joined the game
+[21:18:08] [Server thread/INFO]: Emmanuel[/127.1.246.137:45725] logged in with entity id 97616 at ([world]8.407217052383695, 69.0, 7.0596457637115915)
+[21:18:12] [Async Chat Thread - #39/INFO]: [Not Secure] <elguatavo7u7159> ./register 12345
+[21:18:13] [Async Chat Thread - #40/INFO]: [Not Secure] <elguatavo7u7159> ./register 12345
+[21:18:14] [Async Chat Thread - #39/INFO]: [Not Secure] <elguatavo7u7159> ./register 12345
+[21:18:25] [User Authenticator #42/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[21:18:27] [Server thread/INFO]: MrCreeper_143 joined the game
+[21:18:27] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:47723] logged in with entity id 97779 at ([world]56.90696829748581, 65.0, 72.40650444861022)
+[21:18:48] [Async Chat Thread - #40/INFO]: [Not Secure] <elguatavo7u7159> ./register 12345
