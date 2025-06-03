@@ -1035,3 +1035,81 @@ java.lang.IllegalStateException: zip file closed
 [22:50:35] [User Authenticator #62/INFO]: UUID of player NAT3333 is fdb66e07-9cc9-31fb-8fe6-a22936d04d0b
 [22:50:37] [Server thread/INFO]: NAT3333 joined the game
 [22:50:37] [Server thread/INFO]: NAT3333[/127.126.92.91:34439] logged in with entity id 153238 at ([world]124.35951889626136, 69.0, 157.3700387297032)
+[22:52:00] [Async Chat Thread - #81/INFO]: [Not Secure] <ThiaguitoOwO2021> 139 ~ 331
+[22:53:13] [Server thread/INFO]: Villager Villager['Villager'/143011, uuid='5926eed8-6c41-4060-b715-58d790a82bb6', l='ServerLevel[world_nether]', x=6.70, y=116.00, z=11.89, cpos=[0, 0], tl=59398, v=true] died, message: 'Villager was squished too much'
+[22:53:14] [Server thread/INFO]: Villager Villager['Villager'/142999, uuid='17495d0b-7c65-4c69-8903-19fecb82c8f6', l='ServerLevel[world_nether]', x=6.30, y=116.00, z=11.77, cpos=[0, 0], tl=39476, v=true] died, message: 'Villager was squished too much'
+[22:58:15] [Async Chat Thread - #82/INFO]: [Not Secure] <ThiaguitoOwO2021> mori
+[22:58:17] [Async Chat Thread - #83/INFO]: [Not Secure] <ThiaguitoOwO2021> gg
+[22:58:19] [Async Chat Thread - #83/INFO]: [Not Secure] <ThiaguitoOwO2021> :(
+[22:58:24] [Async Chat Thread - #82/INFO]: [Not Secure] <elguatavo7u7159> gg
+[23:00:37] [Server thread/INFO]: Villager Villager['Villager'/143010, uuid='67f4dc44-a0fe-4ffe-b747-c5dea3a55869', l='ServerLevel[world_nether]', x=6.30, y=116.00, z=11.86, cpos=[0, 0], tl=60946, v=true] died, message: 'Villager was squished too much'
+[23:02:12] [Server thread/INFO]: Villager Villager['Villager'/142994, uuid='040010e1-a9af-485b-b22e-1b511485ee21', l='ServerLevel[world_nether]', x=6.30, y=116.00, z=11.87, cpos=[0, 0], tl=47824, v=true] died, message: 'Villager was squished too much'
+[23:02:21] [Server thread/INFO]: Villager Villager['Villager'/143000, uuid='86aca82b-314b-4639-8f7d-ade7f6814f34', l='ServerLevel[world_nether]', x=6.70, y=116.00, z=12.17, cpos=[0, 0], tl=54980, v=true] died, message: 'Villager was squished too much'
+[23:04:17] [Async Chat Thread - #85/INFO]: [Not Secure] <elguatavo7u7159> -62 46
+[23:05:59] [Server thread/INFO]: NAT3333 was killed by Witch using magic
+[23:06:18] [Server thread/INFO]: NAT3333 was killed by Witch using magic
+[23:06:38] [Server thread/INFO]: NAT3333 was killed by Witch using magic
+[23:08:48] [Async Chat Thread - #86/INFO]: [Not Secure] <elpanajose> -516/85/1373
+[23:10:35] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[23:10:35] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[23:10:43] [User Authenticator #63/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[23:10:44] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[23:10:44] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:45043] logged in with entity id 172263 at ([world]-338.91792560915616, 85.07264915681898, 833.757251330125)
+[23:10:47] [Server thread/INFO]: NAT3333 lost connection: Timed out
+[23:10:47] [Server thread/INFO]: NAT3333 left the game
+[23:10:48] [User Authenticator #63/INFO]: UUID of player NAT3333 is fdb66e07-9cc9-31fb-8fe6-a22936d04d0b
+[23:10:50] [Server thread/INFO]: NAT3333 joined the game
+[23:10:50] [Server thread/INFO]: NAT3333[/127.126.92.91:42413] logged in with entity id 172476 at ([world]-461.69999998807907, 74.5625, 225.72252253032988)
+[23:10:51] [Server thread/INFO]: elguatavo7u7159 fell from a high place
+[23:13:51] [Server thread/INFO]: elpanajose lost connection: Disconnected
+[23:13:51] [Server thread/INFO]: elpanajose left the game
+[23:13:55] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[23:13:55] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[23:14:20] [Server thread/INFO]: Villager Villager['Villager'/173723, uuid='49001716-367b-4d66-a83d-524b902a5b75', l='ServerLevel[world_nether]', x=6.30, y=116.00, z=11.85, cpos=[0, 0], tl=95675, v=true] died, message: 'Villager was squished too much'
+[23:14:27] [User Authenticator #64/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[23:14:28] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[23:14:28] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:40861] logged in with entity id 175713 at ([world]-506.94955793451976, 79.9375, 1358.9667823928694)
+[23:14:32] [User Authenticator #64/INFO]: UUID of player elpanajose is 18a7d61d-1943-315e-bfae-68ac6a9a8bf1
+[23:14:33] [Server thread/INFO]: elpanajose joined the game
+[23:14:33] [Server thread/INFO]: elpanajose[/127.188.105.249:52089] logged in with entity id 175958 at ([world]-511.9812915140449, 83.1430936371836, 1350.104999316539)
+[23:14:36] [Server thread/INFO]: elpanajose lost connection: Disconnected
+[23:14:36] [Server thread/INFO]: elpanajose left the game
+[23:14:44] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[23:14:44] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[23:15:11] [User Authenticator #64/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[23:15:12] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[23:15:12] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:40713] logged in with entity id 176222 at ([world]-497.06201187617324, 81.0, 1370.4231682067393)
+[23:16:28] [User Authenticator #65/INFO]: UUID of player elpanajose is 18a7d61d-1943-315e-bfae-68ac6a9a8bf1
+[23:16:29] [Server thread/INFO]: elpanajose joined the game
+[23:16:29] [Server thread/INFO]: elpanajose[/127.188.105.249:42463] logged in with entity id 177568 at ([world]-511.9812915140449, 83.0, 1350.104999316539)
+[23:23:50] [Netty Epoll Server IO #3/INFO]: [GrimAC] Disconnecting NAT3333 for spamming invalid packets, packets cancelled within a second 101
+[23:23:50] [Netty Epoll Server IO #3/INFO]: [GrimAC] Disconnecting NAT3333 for disconnect.closed
+[23:23:50] [Server thread/INFO]: NAT3333 lost connection: disconnect.closed
+[23:23:50] [Server thread/INFO]: NAT3333 left the game
+[23:24:13] [User Authenticator #66/INFO]: UUID of player NAT3333 is fdb66e07-9cc9-31fb-8fe6-a22936d04d0b
+[23:24:15] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[23:24:15] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[23:24:32] [User Authenticator #66/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[23:24:33] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[23:24:33] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:47569] logged in with entity id 182562 at ([world]-383.44034420213717, 66.23957394710835, 1376.1610397102004)
+[23:24:42] [Server thread/INFO]: NAT3333 joined the game
+[23:24:42] [Server thread/INFO]: NAT3333[/127.126.92.91:42695] logged in with entity id 182259 at ([world]-7.123110754101832, 62.44894359877408, 181.02385869167165)
+[23:25:07] [Server thread/INFO]: Villager Villager['Villager'/182464, uuid='f3a0dfac-2df3-4ac1-9226-1faeeb1df657', l='ServerLevel[world_nether]', x=3.30, y=116.00, z=11.52, cpos=[0, 0], tl=1168520, v=true] died, message: 'Villager was burned to a crisp while fighting elguatavo7u7159'
+[23:29:27] [Server thread/INFO]: Villager Villager['Villager'/176250, uuid='1a5a8dcf-e71e-4ddd-b7fa-8876fdc7003c', l='ServerLevel[world]', x=-492.17, y=82.00, z=1387.29, cpos=[-31, 86], tl=98421, v=true] died, message: 'Villager was slain by Zombie'
+[23:29:40] [Server thread/INFO]: Villager Villager['Villager'/176237, uuid='d5bb431a-9e72-4315-a4cc-195dcc956316', l='ServerLevel[world]', x=-518.51, y=97.00, z=1439.13, cpos=[-33, 89], tl=97852, v=true] died, message: 'Villager was slain by Zombie'
+[23:30:13] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[23:30:13] [Server thread/INFO]: elguatavo7u7159 left the game
+[23:30:16] [Server thread/INFO]: elpanajose lost connection: Disconnected
+[23:30:16] [Server thread/INFO]: elpanajose left the game
+[23:30:17] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[23:30:17] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[23:30:39] [User Authenticator #67/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[23:30:40] [Server thread/INFO]: elguatavo7u7159 joined the game
+[23:30:40] [Server thread/INFO]: elguatavo7u7159[/127.205.106.234:53499] logged in with entity id 185160 at ([world]66.89593917936072, 64.0, 76.77148901383605)
+[23:30:43] [User Authenticator #67/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[23:30:45] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[23:30:45] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:38235] logged in with entity id 185458 at ([world]84.6122264112216, 64.0, 110.92247855264385)
+[23:30:52] [User Authenticator #67/INFO]: UUID of player elpanajose is 18a7d61d-1943-315e-bfae-68ac6a9a8bf1
+[23:30:53] [Server thread/INFO]: elpanajose joined the game
+[23:30:53] [Server thread/INFO]: elpanajose[/127.188.105.249:33481] logged in with entity id 185589 at ([world]-501.88496742977964, 83.0, 1358.090850221706)
+[23:31:44] [Async Chat Thread - #88/INFO]: [Not Secure] <ThiaguitoOwO2021> si pe
