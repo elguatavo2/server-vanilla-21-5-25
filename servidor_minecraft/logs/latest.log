@@ -965,3 +965,49 @@ java.lang.IllegalStateException: zip file closed
 [22:30:14] [User Authenticator #58/INFO]: UUID of player NAT3333 is fdb66e07-9cc9-31fb-8fe6-a22936d04d0b
 [22:30:16] [Server thread/INFO]: NAT3333 joined the game
 [22:30:16] [Server thread/INFO]: NAT3333[/127.126.92.91:36989] logged in with entity id 142948 at ([world]123.28032733715858, 69.0000001, 157.1356696980526)
+[22:30:20] [Server thread/INFO]: Villager Villager['Villager'/142997, uuid='f7250f9d-8ce4-4c81-bdcf-82d753dd8b7f', l='ServerLevel[world_nether]', x=6.70, y=116.00, z=12.15, cpos=[0, 0], tl=50820, v=true] died, message: 'Villager was squished too much'
+[22:30:37] [Server thread/INFO]: ThiaguitoOwO2021 has made the advancement [A Terrible Fortress]
+[22:30:38] [Server thread/INFO]: NAT3333 lost connection: Disconnected
+[22:30:38] [Server thread/INFO]: NAT3333 left the game
+[22:30:50] [User Authenticator #58/INFO]: UUID of player NAT3333 is fdb66e07-9cc9-31fb-8fe6-a22936d04d0b
+[22:30:51] [Server thread/INFO]: NAT3333 joined the game
+[22:30:51] [Server thread/INFO]: NAT3333[/127.126.92.91:36509] logged in with entity id 143282 at ([world]123.28032733715858, 69.0000001, 157.1356696980526)
+[22:31:08] [Async Chat Thread - #76/INFO]: [Not Secure] <ThiaguitoOwO2021> 139 ~ 331
+[22:31:52] [Server thread/INFO]: NAT3333 lost connection: Disconnected
+[22:31:52] [Server thread/INFO]: NAT3333 left the game
+[22:35:42] [Server thread/INFO]: Villager Villager['Villager'/142989, uuid='23e2c300-d35a-40ce-bebc-24e6a6d1f3cd', l='ServerLevel[world_nether]', x=6.70, y=116.00, z=12.13, cpos=[0, 0], tl=81001, v=true] died, message: 'Villager was squished too much'
+[22:35:45] [Server thread/INFO]: Villager Villager['Villager'/143001, uuid='71e553b6-bfe7-4c85-ad20-d5a6bafe25b1', l='ServerLevel[world_nether]', x=6.70, y=116.00, z=11.86, cpos=[0, 0], tl=71854, v=true] died, message: 'Villager was squished too much'
+[22:36:24] [Server thread/INFO]: Villager Villager['Villager'/142988, uuid='cea71ba1-ac1a-42d7-8ce3-f3fd25dbfb18', l='ServerLevel[world_nether]', x=6.70, y=116.00, z=11.87, cpos=[0, 0], tl=51854, v=true] died, message: 'Villager was squished too much'
+[22:36:37] [Server thread/INFO]: Villager Villager['Villager'/143002, uuid='a59c8319-5eac-4f81-84eb-5753a3402214', l='ServerLevel[world_nether]', x=6.30, y=116.00, z=11.87, cpos=[0, 0], tl=72313, v=true] died, message: 'Villager was squished too much'
+[22:39:45] [Async Chat Thread - #79/INFO]: [Not Secure] <elguatavo7u7159> z
+[22:39:45] [Async Chat Thread - #79/INFO]: [Not Secure] <elguatavo7u7159> z
+[22:39:45] [Async Chat Thread - #78/INFO]: [Not Secure] <elguatavo7u7159> z
+[22:39:45] [Async Chat Thread - #78/INFO]: [Not Secure] <elguatavo7u7159> z
+[22:39:46] [Async Chat Thread - #78/INFO]: [Not Secure] <elguatavo7u7159> z
+[22:39:46] [Async Chat Thread - #79/INFO]: [Not Secure] <elguatavo7u7159> z
+[22:39:46] [Async Chat Thread - #79/INFO]: [Not Secure] <elguatavo7u7159> z
+[22:39:46] [Async Chat Thread - #78/INFO]: [Not Secure] <elguatavo7u7159> z
+[22:39:46] [Async Chat Thread - #79/INFO]: [Not Secure] <elguatavo7u7159> z
+[22:39:47] [Async Chat Thread - #79/INFO]: [Not Secure] <elguatavo7u7159> z
+[22:39:47] [Async Chat Thread - #78/INFO]: [Not Secure] <elguatavo7u7159> z
+[22:39:47] [Async Chat Thread - #78/INFO]: [Not Secure] <elguatavo7u7159> z
+[22:39:53] [Server thread/INFO]: PAPUpro777 lost connection: Disconnected
+[22:39:53] [Server thread/INFO]: PAPUpro777 left the game
+[22:39:57] [Async Chat Thread - #78/INFO]: [Not Secure] <elguatavo7u7159> s
+[22:39:57] [Async Chat Thread - #78/INFO]: [Not Secure] <elguatavo7u7159> z
+[22:39:57] [Async Chat Thread - #78/INFO]: [Not Secure] <elguatavo7u7159> z
+[22:39:58] [Async Chat Thread - #78/INFO]: [Not Secure] <elguatavo7u7159> z
+[22:39:58] [Async Chat Thread - #78/INFO]: [Not Secure] <elguatavo7u7159> z
+[22:39:58] [Async Chat Thread - #79/INFO]: [Not Secure] <elguatavo7u7159> zz
+[22:39:58] [Async Chat Thread - #79/INFO]: [Not Secure] <elguatavo7u7159> z
+[22:39:58] [Async Chat Thread - #79/INFO]: [Not Secure] <elguatavo7u7159> z
+[22:39:58] [Async Chat Thread - #79/INFO]: [Not Secure] <elguatavo7u7159> z
+[22:39:58] [Server thread/INFO]: elpanajose lost connection: Disconnected
+[22:39:58] [Server thread/INFO]: elpanajose left the game
+[22:39:59] [Async Chat Thread - #78/INFO]: [Not Secure] <elguatavo7u7159> z
+[22:40:08] [User Authenticator #59/INFO]: UUID of player PAPUpro777 is d4ce3a30-65e5-30c3-97e2-0379ea917d27
+[22:40:08] [Server thread/INFO]: PAPUpro777 joined the game
+[22:40:08] [Server thread/INFO]: PAPUpro777[/127.205.106.234:56007] logged in with entity id 147775 at ([world]104.12070899210029, 64.0, 74.30000001192093)
+[22:40:14] [User Authenticator #59/INFO]: UUID of player elpanajose is 18a7d61d-1943-315e-bfae-68ac6a9a8bf1
+[22:40:15] [Server thread/INFO]: elpanajose joined the game
+[22:40:15] [Server thread/INFO]: elpanajose[/127.188.105.249:51803] logged in with entity id 147795 at ([world]-483.30000001192093, 74.0, 1332.300000011921)
