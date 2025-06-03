@@ -175,3 +175,9 @@ java.lang.IllegalStateException: zip file closed
 [18:07:33] [Server thread/INFO]: Villager Villager['Villager'/36, uuid='784a1861-ad82-48cc-bb83-2b2205d752d4', l='ServerLevel[world]', x=47.70, y=64.00, z=76.30, cpos=[2, 4], tl=295757, v=true] died, message: 'Villager was slain by Zombie'
 [18:07:40] [Server thread/INFO]: Villager Villager['Villager'/56, uuid='595dde2a-6979-4843-ab2e-bb4f095a0557', l='ServerLevel[world]', x=47.70, y=64.00, z=76.30, cpos=[2, 4], tl=201483, v=true] died, message: 'Villager was slain by Zombie'
 [18:07:47] [Server thread/INFO]: Villager Villager['Villager'/59, uuid='7c70c2a4-5511-4d70-8d9b-407efea3b7a6', l='ServerLevel[world]', x=47.70, y=64.00, z=76.30, cpos=[2, 4], tl=246882, v=true] died, message: 'Villager was slain by Zombie'
+[18:18:48] [User Authenticator #3/INFO]: UUID of player PAPUpro777 is d4ce3a30-65e5-30c3-97e2-0379ea917d27
+[18:18:49] [Server thread/INFO]: PAPUpro777 joined the game
+[18:18:49] [Server thread/INFO]: PAPUpro777[/127.205.106.234:54363] logged in with entity id 9094 at ([world]-5.5, 68.0, -0.5)
+[18:21:42] [Server thread/INFO]: mechajuan3 was shot by Skeleton
+[18:21:48] [Async Chat Thread - #1/INFO]: [Not Secure] <elguatavo7u7159> nooooooooooo
+[18:21:49] [Async Chat Thread - #0/INFO]: [Not Secure] <elguatavo7u7159> ggg
