@@ -170,3 +170,8 @@ java.lang.IllegalStateException: zip file closed
 [17:56:59] [User Authenticator #2/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
 [17:57:00] [Server thread/INFO]: mechajuan3 joined the game
 [17:57:00] [Server thread/INFO]: mechajuan3[/127.241.198.181:50881] logged in with entity id 2334 at ([world]41.23728613022129, -32.0, -1204.8508911473878)
+[18:07:20] [Server thread/INFO]: Villager Villager['Villager'/60, uuid='67767fdc-da22-4597-9b1e-6f54eceda7e3', l='ServerLevel[world]', x=47.18, y=64.00, z=76.70, cpos=[2, 4], tl=192736, v=true] died, message: 'Villager was slain by Zombie'
+[18:07:26] [Server thread/INFO]: Villager Villager['Villager'/29, uuid='984fb8ff-3be3-4ea1-b21a-f0953fa73c9e', l='ServerLevel[world]', x=47.70, y=64.00, z=76.30, cpos=[2, 4], tl=285772, v=true] died, message: 'Villager was slain by Zombie'
+[18:07:33] [Server thread/INFO]: Villager Villager['Villager'/36, uuid='784a1861-ad82-48cc-bb83-2b2205d752d4', l='ServerLevel[world]', x=47.70, y=64.00, z=76.30, cpos=[2, 4], tl=295757, v=true] died, message: 'Villager was slain by Zombie'
+[18:07:40] [Server thread/INFO]: Villager Villager['Villager'/56, uuid='595dde2a-6979-4843-ab2e-bb4f095a0557', l='ServerLevel[world]', x=47.70, y=64.00, z=76.30, cpos=[2, 4], tl=201483, v=true] died, message: 'Villager was slain by Zombie'
+[18:07:47] [Server thread/INFO]: Villager Villager['Villager'/59, uuid='7c70c2a4-5511-4d70-8d9b-407efea3b7a6', l='ServerLevel[world]', x=47.70, y=64.00, z=76.30, cpos=[2, 4], tl=246882, v=true] died, message: 'Villager was slain by Zombie'
