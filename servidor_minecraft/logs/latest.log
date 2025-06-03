@@ -210,3 +210,10 @@ java.lang.IllegalStateException: zip file closed
 [18:49:48] [User Authenticator #5/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
 [18:49:53] [Server thread/INFO]: mechajuan3 joined the game
 [18:49:53] [Server thread/INFO]: mechajuan3[/127.241.198.181:58643] logged in with entity id 22158 at ([world]82.01090813491366, 62.0, 98.69999998807907)
+[19:01:43] [Server thread/INFO]: Villager Villager['Fletcher'/116, uuid='5f7f9242-6f6f-43fe-846c-ff60ae6f1000', l='ServerLevel[world]', x=68.69, y=68.00, z=61.69, cpos=[4, 3], tl=1411477, v=true] died, message: 'Fletcher was slain by Zombie'
+[19:02:28] [Server thread/INFO]: Villager Villager['Fletcher'/115, uuid='683a358e-e16f-4b14-8120-a0481270dbb2', l='ServerLevel[world]', x=66.70, y=68.00, z=61.70, cpos=[4, 3], tl=1449241, v=true] died, message: 'Fletcher was slain by Zombie'
+[19:02:45] [Server thread/INFO]: Villager Villager['Fletcher'/8, uuid='d129919f-538b-41fb-8701-48532cba0a6f', l='ServerLevel[world]', x=60.70, y=68.00, z=61.70, cpos=[3, 3], tl=1459773, v=true] died, message: 'Fletcher was slain by Zombie'
+[19:03:41] [User Authenticator #6/INFO]: UUID of player tivi0400 is 320e1cb9-0280-3aa6-940b-7eaf68730c4a
+[19:03:43] [Server thread/INFO]: tivi0400 joined the game
+[19:03:43] [Server thread/INFO]: tivi0400[/127.212.162.215:45899] logged in with entity id 28074 at ([world]35.80917365143045, 63.0, 108.30645294755989)
+[19:05:11] [Server thread/INFO]: PAPUpro777 has made the advancement [Monster Hunter]
