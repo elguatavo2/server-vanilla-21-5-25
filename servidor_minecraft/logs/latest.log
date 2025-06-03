@@ -189,3 +189,23 @@
 [01:43:14] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
 [01:43:14] [Server thread/INFO]: MrCreeper_143 left the game
 [01:44:30] [User Authenticator #39/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[01:44:33] [Server thread/INFO]: MrCreeper_143 joined the game
+[01:44:33] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:50003] logged in with entity id 110129 at ([world_the_end]97.95960606020603, 50.0, 0.39166713884720183)
+[01:44:54] [Async Chat Thread - #108/INFO]: [Not Secure] <mechajuan3> lsito dos estacks de rieles
+[01:47:49] [Netty Epoll Server IO #2/INFO]: [GrimAC] Disconnecting mechajuan3 for spamming invalid packets, packets cancelled within a second 101
+[01:47:49] [Netty Epoll Server IO #2/INFO]: [GrimAC] Disconnecting mechajuan3 for disconnect.closed
+[01:47:49] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
+[01:47:49] [Server thread/INFO]: mechajuan3 left the game
+[01:48:13] [User Authenticator #40/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[01:48:18] [Server thread/INFO]: mechajuan3 joined the game
+[01:48:18] [Server thread/INFO]: mechajuan3[/127.241.198.181:60605] logged in with entity id 112206 at ([world]91.04247993600538, 66.0, 132.06172909497084)
+[01:48:26] [Netty Epoll Server IO #2/INFO]: [GrimAC] Disconnecting mechajuan3 for spamming invalid packets, packets cancelled within a second 101
+[01:48:26] [Netty Epoll Server IO #2/INFO]: [GrimAC] Disconnecting mechajuan3 for disconnect.closed
+[01:48:26] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
+[01:48:26] [Server thread/INFO]: mechajuan3 left the game
+[01:48:46] [User Authenticator #40/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[01:48:48] [Server thread/INFO]: mechajuan3 joined the game
+[01:48:48] [Server thread/INFO]: mechajuan3[/127.241.198.181:42705] logged in with entity id 112362 at ([world]91.04247993600538, 66.0, 132.06172909497084)
+[01:49:37] [Server thread/INFO]: Villager Villager['Villager'/112433, uuid='e3edbc89-3b40-4ec1-80c3-ea01e3ca26c0', l='ServerLevel[world]', x=55.82, y=65.00, z=73.32, cpos=[3, 4], tl=715, v=true] died, message: 'Villager was slain by elguatavo7u7159'
+[01:49:43] [Server thread/INFO]: Villager Villager['Villager'/99400, uuid='1db89494-cc85-429f-aec2-6fbb7e5b9dbe', l='ServerLevel[world]', x=47.98, y=68.00, z=58.26, cpos=[2, 3], tl=17670, v=true] died, message: 'Villager was burned to a crisp while fighting elguatavo7u7159'
+[01:52:38] [Server thread/INFO]: MrCreeper_143 has made the advancement [Ice Bucket Challenge]
