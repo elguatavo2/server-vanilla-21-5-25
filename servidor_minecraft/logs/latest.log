@@ -142,3 +142,35 @@
 [01:23:22] [User Authenticator #35/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
 [01:23:23] [Server thread/INFO]: MrCreeper_143 joined the game
 [01:23:23] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:34877] logged in with entity id 94327 at ([world]68.9237352044569, 65.0, 69.76180964055189)
+[01:27:40] [Async Chat Thread - #97/INFO]: [Not Secure] <MrCreeper_143> zzzzz
+[01:28:01] [Async Chat Thread - #97/INFO]: [Not Secure] <ThiaguitoOwO2021> zzz
+[01:28:06] [Async Chat Thread - #97/INFO]: [Not Secure] <mechajuan3> zzzz
+[01:28:06] [Async Chat Thread - #98/INFO]: [Not Secure] <mechajuan3> z
+[01:28:06] [Async Chat Thread - #99/INFO]: [Not Secure] <mechajuan3> z
+[01:28:06] [Async Chat Thread - #98/INFO]: [Not Secure] <mechajuan3> zz
+[01:28:17] [Netty Epoll Server IO #0/INFO]: [GrimAC] Disconnecting MrCreeper_143 for spamming invalid packets, packets cancelled within a second 101
+[01:28:17] [Netty Epoll Server IO #0/INFO]: [GrimAC] Disconnecting MrCreeper_143 for disconnect.closed
+[01:28:17] [Server thread/INFO]: MrCreeper_143 lost connection: disconnect.closed
+[01:28:17] [Server thread/INFO]: MrCreeper_143 left the game
+[01:28:21] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[01:28:21] [Server thread/INFO]: elguatavo7u7159 left the game
+[01:28:24] [Server thread/INFO]: NAT3333 lost connection: Disconnected
+[01:28:24] [Server thread/INFO]: NAT3333 left the game
+[01:28:31] [User Authenticator #36/INFO]: UUID of player NAT3333 is fdb66e07-9cc9-31fb-8fe6-a22936d04d0b
+[01:28:32] [Server thread/INFO]: NAT3333 joined the game
+[01:28:32] [Server thread/INFO]: NAT3333[/127.126.92.91:49835] logged in with entity id 96183 at ([world]189.0770673120896, -51.0, 124.19127757295001)
+[01:29:26] [User Authenticator #36/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[01:29:27] [Server thread/INFO]: elguatavo7u7159 joined the game
+[01:29:27] [Server thread/INFO]: elguatavo7u7159[/127.169.176.95:60343] logged in with entity id 96481 at ([world]44.88174220535492, 64.0, 103.39657405818089)
+[01:30:30] [User Authenticator #37/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[01:30:31] [Server thread/INFO]: MrCreeper_143 joined the game
+[01:30:31] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:35707] logged in with entity id 97662 at ([world]50.5, 67.0, 76.5)
+[01:31:03] [Server thread/INFO]: MrCreeper_143 lost connection: Timed out
+[01:31:03] [Server thread/INFO]: MrCreeper_143 left the game
+[01:31:09] [Async Chat Thread - #100/INFO]: [Not Secure] <mechajuan3> gustavo
+[01:31:22] [Async Chat Thread - #100/INFO]: [Not Secure] <mechajuan3> anda a una minesaft
+[01:31:31] [Async Chat Thread - #101/INFO]: [Not Secure] <mechajuan3> para los rieles
+[01:31:51] [User Authenticator #38/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[01:31:53] [Server thread/INFO]: MrCreeper_143 joined the game
+[01:31:53] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:44963] logged in with entity id 98273 at ([world]47.40784620176047, 69.5, 75.37094928182682)
+[01:33:23] [Server thread/INFO]: NAT3333 has made the advancement [Diamonds!]
