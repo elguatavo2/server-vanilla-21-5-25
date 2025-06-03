@@ -189,3 +189,8 @@ java.lang.IllegalStateException: zip file closed
 [18:34:37] [Netty Epoll Server IO #2/INFO]: [GrimAC] Disconnecting mechajuan3 for disconnect.closed
 [18:34:37] [Server thread/INFO]: mechajuan3 lost connection: disconnect.closed
 [18:34:37] [Server thread/INFO]: mechajuan3 left the game
+[18:34:52] [User Authenticator #4/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[18:34:54] [Server thread/INFO]: mechajuan3 joined the game
+[18:34:54] [Server thread/INFO]: mechajuan3[/127.241.198.181:46139] logged in with entity id 14859 at ([world]72.77785651067597, 65.0, 70.96616370881314)
+[18:35:25] [Server thread/INFO]: PAPUpro777 has made the advancement [Acquire Hardware]
+[18:41:09] [Server thread/INFO]: PAPUpro777 has made the advancement [Stone Age]
