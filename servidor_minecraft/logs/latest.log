@@ -194,3 +194,19 @@ java.lang.IllegalStateException: zip file closed
 [18:34:54] [Server thread/INFO]: mechajuan3[/127.241.198.181:46139] logged in with entity id 14859 at ([world]72.77785651067597, 65.0, 70.96616370881314)
 [18:35:25] [Server thread/INFO]: PAPUpro777 has made the advancement [Acquire Hardware]
 [18:41:09] [Server thread/INFO]: PAPUpro777 has made the advancement [Stone Age]
+[18:48:37] [Server thread/INFO]: Villager Villager['Villager'/58, uuid='0dd06c46-0e55-418c-9ee7-0a3fc4ff74e3', l='ServerLevel[world]', x=47.18, y=64.00, z=76.70, cpos=[2, 4], tl=320608, v=true] died, message: 'Villager was slain by Zombie'
+[18:48:44] [Server thread/INFO]: Villager Villager['Villager'/61, uuid='82685812-4db9-47f8-983d-461ec2da20e0', l='ServerLevel[world]', x=47.70, y=64.00, z=76.70, cpos=[2, 4], tl=282190, v=true] died, message: 'Villager was slain by Zombie'
+[18:48:51] [Server thread/INFO]: Villager Villager['Villager'/62, uuid='ead1a66e-a8fb-4317-8357-35448363bd5b', l='ServerLevel[world]', x=47.70, y=64.00, z=76.70, cpos=[2, 4], tl=182562, v=true] died, message: 'Villager was slain by Zombie'
+[18:48:53] [Netty Epoll Server IO #1/INFO]: [GrimAC] Disconnecting mechajuan3 for spamming invalid packets, packets cancelled within a second 101
+[18:48:53] [Netty Epoll Server IO #1/INFO]: [GrimAC] Disconnecting mechajuan3 for disconnect.closed
+[18:48:53] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
+[18:48:53] [Server thread/INFO]: mechajuan3 left the game
+[18:49:28] [Server thread/INFO]: PAPUpro777 has made the advancement [Sweet Dreams]
+[18:49:38] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[18:49:38] [Server thread/INFO]: elguatavo7u7159 left the game
+[18:49:45] [User Authenticator #5/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[18:49:46] [Server thread/INFO]: elguatavo7u7159 joined the game
+[18:49:46] [Server thread/INFO]: elguatavo7u7159[/127.205.106.234:54359] logged in with entity id 22153 at ([world]104.76249998807907, 64.0, 74.31424870484112)
+[18:49:48] [User Authenticator #5/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[18:49:53] [Server thread/INFO]: mechajuan3 joined the game
+[18:49:53] [Server thread/INFO]: mechajuan3[/127.241.198.181:58643] logged in with entity id 22158 at ([world]82.01090813491366, 62.0, 98.69999998807907)
