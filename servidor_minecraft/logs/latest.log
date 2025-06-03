@@ -105,3 +105,40 @@
 [01:13:32] [Netty Epoll Server IO #1/INFO]: [GrimAC] Disconnecting NAT3333 for disconnect.closed
 [01:13:32] [Server thread/INFO]: NAT3333 lost connection: disconnect.closed
 [01:13:32] [Server thread/INFO]: NAT3333 left the game
+[01:13:58] [User Authenticator #30/INFO]: UUID of player NAT3333 is fdb66e07-9cc9-31fb-8fe6-a22936d04d0b
+[01:13:59] [Server thread/INFO]: NAT3333 joined the game
+[01:13:59] [Server thread/INFO]: NAT3333[/127.126.92.91:60603] logged in with entity id 91140 at ([world]123.62994119431286, 68.0, 169.59527292014795)
+[01:15:26] [Async Chat Thread - #92/INFO]: [Not Secure] <NAT3333> perdi nloques y madea
+[01:16:13] [Server thread/INFO]: NAT3333 lost connection: Timed out
+[01:16:13] [Server thread/INFO]: NAT3333 left the game
+[01:16:34] [User Authenticator #31/INFO]: UUID of player NAT3333 is fdb66e07-9cc9-31fb-8fe6-a22936d04d0b
+[01:16:35] [Server thread/INFO]: NAT3333 joined the game
+[01:16:35] [Server thread/INFO]: NAT3333[/127.126.92.91:50573] logged in with entity id 91869 at ([world]224.69999998807907, -50.6584000146389, 133.4178324765086)
+[01:16:50] [Async Chat Thread - #93/INFO]: [Not Secure] <NAT3333> wtf
+[01:16:55] [Async Chat Thread - #94/INFO]: [Not Secure] <NAT3333> wft
+[01:17:13] [Async Chat Thread - #93/INFO]: [Not Secure] <NAT3333> hora esmeralda diamnte en un mismo lugar
+[01:17:57] [Async Chat Thread - #94/INFO]: [Not Secure] <NAT3333> thiago
+[01:18:30] [Server thread/INFO]: NAT3333 lost connection: Timed out
+[01:18:30] [Server thread/INFO]: NAT3333 left the game
+[01:18:32] [User Authenticator #32/INFO]: UUID of player NAT3333 is fdb66e07-9cc9-31fb-8fe6-a22936d04d0b
+[01:18:33] [Server thread/INFO]: NAT3333 joined the game
+[01:18:33] [Server thread/INFO]: NAT3333[/127.126.92.91:36815] logged in with entity id 92525 at ([world]198.38173810367059, -53.0, 124.51264497081296)
+[01:18:48] [Async Chat Thread - #94/INFO]: [Not Secure] <NAT3333> te robaste mis damiantes cabron
+[01:19:02] [Async Chat Thread - #93/INFO]: [Not Secure] <NAT3333> tu
+[01:19:13] [Async Chat Thread - #94/INFO]: [Not Secure] <NAT3333> devolvemelo p
+[01:19:28] [Async Chat Thread - #94/INFO]: [Not Secure] <NAT3333> lo estaba minando y me voto
+[01:20:06] [User Authenticator #33/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[01:20:09] [Server thread/INFO]: MrCreeper_143 joined the game
+[01:20:09] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:42119] logged in with entity id 93064 at ([world]65.83748052062023, 65.0, 72.55859426955362)
+[01:21:06] [Server thread/INFO]: NAT3333 lost connection: Timed out
+[01:21:06] [Server thread/INFO]: NAT3333 left the game
+[01:21:17] [User Authenticator #34/INFO]: UUID of player NAT3333 is fdb66e07-9cc9-31fb-8fe6-a22936d04d0b
+[01:21:19] [Server thread/INFO]: NAT3333 joined the game
+[01:21:19] [Server thread/INFO]: NAT3333[/127.126.92.91:58059] logged in with entity id 93473 at ([world]210.71630232628146, -54.0, 120.89677943515397)
+[01:21:35] [Async Chat Thread - #95/INFO]: [Not Secure] <NAT3333> me cago en todo
+[01:22:59] [Craft Scheduler Thread - 1158 - GrimAC/INFO]: [GrimAC] Disconnecting MrCreeper_143 for disconnect.timeout
+[01:22:59] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
+[01:22:59] [Server thread/INFO]: MrCreeper_143 left the game
+[01:23:22] [User Authenticator #35/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[01:23:23] [Server thread/INFO]: MrCreeper_143 joined the game
+[01:23:23] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:34877] logged in with entity id 94327 at ([world]68.9237352044569, 65.0, 69.76180964055189)
