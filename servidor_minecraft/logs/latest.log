@@ -162,3 +162,11 @@ java.lang.IllegalStateException: zip file closed
 [17:45:23] [Server thread/INFO]: elguatavo7u7159 joined the game
 [17:45:23] [Server thread/INFO]: elguatavo7u7159[/127.205.106.234:47597] logged in with entity id 1 at ([world]53.015850484423794, 65.5, 68.80000001192093)
 [17:45:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
+[17:55:49] [User Authenticator #1/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[17:55:58] [Server thread/INFO]: mechajuan3 joined the game
+[17:55:58] [Server thread/INFO]: mechajuan3[/127.241.198.181:38895] logged in with entity id 1868 at ([world]41.23728613022129, -32.0, -1204.8508911473878)
+[17:56:28] [Server thread/INFO]: mechajuan3 lost connection: Timed out
+[17:56:28] [Server thread/INFO]: mechajuan3 left the game
+[17:56:59] [User Authenticator #2/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[17:57:00] [Server thread/INFO]: mechajuan3 joined the game
+[17:57:00] [Server thread/INFO]: mechajuan3[/127.241.198.181:50881] logged in with entity id 2334 at ([world]41.23728613022129, -32.0, -1204.8508911473878)
