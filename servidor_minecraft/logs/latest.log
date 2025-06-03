@@ -259,3 +259,27 @@ java.lang.IllegalStateException: zip file closed
 [19:14:57] [User Authenticator #11/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
 [19:14:59] [Server thread/INFO]: MrCreeper_143 joined the game
 [19:14:59] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:38093] logged in with entity id 32195 at ([world]86.25670622827548, 66.0, 124.02591746160505)
+[19:18:19] [Server thread/INFO]: MrCreeper_143 was slain by mechajuan3
+[19:19:28] [Server thread/INFO]: MrCreeper_143 suffocated in a wall
+[19:19:58] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
+[19:19:58] [Server thread/INFO]: MrCreeper_143 left the game
+[19:20:05] [Async Chat Thread - #4/INFO]: [Not Secure] <mechajuan3> me craseho el discord XDDD
+[19:20:13] [User Authenticator #12/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[19:20:15] [Server thread/INFO]: MrCreeper_143 joined the game
+[19:20:15] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:38465] logged in with entity id 34135 at ([world]69.5, 71.0, 61.5)
+[19:20:59] [Server thread/INFO]: MrCreeper_143 lost connection: Timed out
+[19:20:59] [Server thread/INFO]: MrCreeper_143 left the game
+[19:21:32] [User Authenticator #13/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[19:21:33] [Server thread/INFO]: MrCreeper_143 joined the game
+[19:21:33] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:57285] logged in with entity id 34854 at ([world_nether]4.468406855654536, 116.0, 13.5)
+[19:23:04] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
+[19:23:04] [Server thread/INFO]: mechajuan3 left the game
+[19:24:16] [Async Chat Thread - #6/INFO]: [Not Secure] <tivi0400> wwwa
+[19:24:21] [Server thread/INFO]: MrCreeper_143 suffocated in a wall
+[19:24:56] [Server thread/INFO]: MrCreeper_143 lost connection: Timed out
+[19:24:56] [Server thread/INFO]: MrCreeper_143 left the game
+[19:25:14] [User Authenticator #14/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[19:25:15] [Server thread/INFO]: MrCreeper_143 joined the game
+[19:25:15] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:50831] logged in with entity id 36858 at ([world]70.1479583019933, 71.04555205089503, 61.69580744698999)
+[19:25:39] [Server thread/INFO]: Villager Villager['Fletcher'/108, uuid='5dfd67ff-4dc9-45f4-821e-23e01616d1fe', l='ServerLevel[world]', x=76.68, y=65.00, z=63.32, cpos=[4, 3], tl=1585430, v=true] died, message: 'Fletcher was slain by Zombie'
+[19:25:41] [Server thread/INFO]: Villager Villager['Fletcher'/113, uuid='d5943b14-264f-4e02-8912-ab1adff4e5c5', l='ServerLevel[world]', x=74.51, y=65.00, z=63.49, cpos=[4, 3], tl=1889067, v=true] died, message: 'Fletcher was slain by Zombie'
