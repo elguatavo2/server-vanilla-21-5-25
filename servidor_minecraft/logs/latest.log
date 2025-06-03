@@ -781,3 +781,56 @@ java.lang.IllegalStateException: zip file closed
 [21:39:02] [User Authenticator #47/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
 [21:39:03] [Server thread/INFO]: MrCreeper_143 joined the game
 [21:39:03] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:43041] logged in with entity id 110915 at ([world]66.40741080628891, 65.0, 65.82844768250601)
+[21:39:33] [Server thread/INFO]: MrCreeper_143 lost connection: Timed out
+[21:39:33] [Server thread/INFO]: MrCreeper_143 left the game
+[21:39:53] [User Authenticator #47/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[21:39:54] [Server thread/INFO]: MrCreeper_143 joined the game
+[21:39:54] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:42103] logged in with entity id 111435 at ([world]66.38421918769198, 65.0, 65.39771691884617)
+[21:40:09] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x120) .003300 /gl 3
+[21:41:12] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x160) .001177 /gl 4
+[21:41:14] [Server thread/INFO]: Camilav18_YT was slain by ThiaguitoOwO2021
+[21:41:57] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x160) .001701 /gl 5
+[21:42:42] [Server thread/INFO]: Emmanuel lost connection: Timed out
+[21:42:42] [Server thread/INFO]: Emmanuel left the game
+[21:42:44] [Server thread/INFO]: Josuux_x1 lost connection: Disconnected
+[21:42:44] [Server thread/INFO]: Josuux_x1 left the game
+[21:42:50] [Server thread/INFO]: elpanajose has made the advancement [We Need to Go Deeper]
+[21:42:51] [User Authenticator #48/INFO]: UUID of player Emmanuel is b7b8b5a4-46a9-3634-a7a3-0b7ff73e39af
+[21:42:52] [Server thread/INFO]: Emmanuel joined the game
+[21:42:52] [Server thread/INFO]: Emmanuel[/127.1.246.137:60361] logged in with entity id 112934 at ([world]71.30764008513556, 65.0, 72.88395571619102)
+[21:43:14] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x160) .002775 /gl 6
+[21:43:16] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x160) .002780 /gl 7
+[21:43:21] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x160) .001582 /gl 8
+[21:43:21] [Server thread/INFO]: MrCreeper_143 was slain by Emmanuel
+[21:43:23] [Server thread/INFO]: Emmanuel has made the advancement [Acquire Hardware]
+[21:43:23] [Server thread/INFO]: Emmanuel has made the advancement [Cover Me with Diamonds]
+[21:43:24] [Async Chat Thread - #51/INFO]: [Not Secure] <ThiaguitoOwO2021> XDDDD
+[21:43:29] [Server thread/INFO]: Camilav18_YT has made the advancement [Cover Me with Diamonds]
+[21:44:35] [Server thread/INFO]: Camilav18_YT was slain by ThiaguitoOwO2021
+[21:45:13] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x160) .001130 /gl 9
+[21:45:19] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x160) .001072 /gl 10
+[21:45:26] [Server thread/INFO]: Camilav18_YT was slain by Zombie
+[21:45:28] [Server thread/INFO]: Emmanuel has made the advancement [Sweet Dreams]
+[21:46:29] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x200) .002879 /gl 11
+[21:46:38] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
+[21:46:38] [Server thread/INFO]: MrCreeper_143 left the game
+[21:46:46] [Async Chat Thread - #53/INFO]: [Not Secure] <ThiaguitoOwO2021> OREN
+[21:46:46] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x240) .002365 /gl 12
+[21:46:56] [Server thread/INFO]: Camilav18_YT issued server command: /sit
+[21:46:58] [Async Chat Thread - #54/INFO]: [Not Secure] <ThiaguitoOwO2021> OREEEN
+[21:47:06] [Async Chat Thread - #54/INFO]: [Not Secure] <ThiaguitoOwO2021> PARA C NO MUERA EL ALDEANO
+[21:47:10] [Server thread/INFO]: tivi0400 was slain by Phantom
+[21:47:27] [Async Chat Thread - #54/INFO]: [Not Secure] <ThiaguitoOwO2021> NONON
+[21:47:29] [Async Chat Thread - #54/INFO]: [Not Secure] <ThiaguitoOwO2021> NO DUERMA
+[21:47:38] [Server thread/INFO]: Camilav18_YT drowned
+[21:47:53] [Async Chat Thread - #54/INFO]: [Not Secure] <ThiaguitoOwO2021> MANO
+[21:48:10] [Async Chat Thread - #53/INFO]: [Not Secure] <ThiaguitoOwO2021> EL ALDEANO Y EL ZOMBI SON AMIGOS
+[21:48:11] [Async Chat Thread - #53/INFO]: [Not Secure] <ThiaguitoOwO2021> NO MUERE
+[21:48:40] [Server thread/INFO]: Villager Villager['Librarian'/121, uuid='46f5c643-dab2-4401-89b3-595cb598a3e5', l='ServerLevel[world]', x=76.30, y=69.25, z=63.44, cpos=[4, 3], tl=1400789, v=true] died, message: 'Librarian was slain by Zombie'
+[21:48:55] [Async Chat Thread - #53/INFO]: [Not Secure] <ThiaguitoOwO2021> ggggg{{
+[21:48:55] [Server thread/INFO]: Camilav18_YT drowned
+[21:49:19] [Server thread/INFO]: Camilav18_YT was shot by Skeleton
+[21:49:23] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x240) .001408 /gl 13
+[21:49:32] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x240) .001412 /gl 14
+[21:49:34] [Server thread/INFO]: Grim » Camilav18_YT failed Simulation (x240) .001978 /gl 15
+[21:49:36] [Server thread/INFO]: Camilav18_YT was shot by Skeleton
