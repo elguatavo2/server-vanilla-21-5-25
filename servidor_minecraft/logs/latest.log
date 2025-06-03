@@ -217,3 +217,45 @@ java.lang.IllegalStateException: zip file closed
 [19:03:43] [Server thread/INFO]: tivi0400 joined the game
 [19:03:43] [Server thread/INFO]: tivi0400[/127.212.162.215:45899] logged in with entity id 28074 at ([world]35.80917365143045, 63.0, 108.30645294755989)
 [19:05:11] [Server thread/INFO]: PAPUpro777 has made the advancement [Monster Hunter]
+[19:05:41] [Server thread/INFO]: tivi0400 lost connection: Login timed out!
+[19:05:41] [Server thread/INFO]: tivi0400 left the game
+[19:05:48] [User Authenticator #7/INFO]: UUID of player tivi0400 is 320e1cb9-0280-3aa6-940b-7eaf68730c4a
+[19:05:49] [Server thread/INFO]: tivi0400 joined the game
+[19:05:49] [Server thread/INFO]: tivi0400[/127.212.162.215:56201] logged in with entity id 28940 at ([world]35.986505194288725, 64.0, 108.96595530159861)
+[19:06:15] [Async Chat Thread - #2/INFO]: [Not Secure] <elguatavo7u7159> hola tv
+[19:06:20] [Async Chat Thread - #3/INFO]: [Not Secure] <elguatavo7u7159> cuando entraste
+[19:06:32] [Async Chat Thread - #2/INFO]: [Not Secure] <mechajuan3> hola
+[19:06:32] [Async Chat Thread - #2/INFO]: [Not Secure] <elguatavo7u7159> hola
+[19:07:48] [Server thread/INFO]: tivi0400 lost connection: Login timed out!
+[19:07:48] [Server thread/INFO]: tivi0400 left the game
+[19:07:54] [User Authenticator #8/INFO]: UUID of player tivi0400 is 320e1cb9-0280-3aa6-940b-7eaf68730c4a
+[19:07:55] [Server thread/INFO]: tivi0400 joined the game
+[19:07:55] [Server thread/INFO]: tivi0400[/127.212.162.215:39669] logged in with entity id 29637 at ([world]35.77901215141564, 64.0, 108.95049297791152)
+[19:09:54] [Server thread/INFO]: tivi0400 lost connection: Login timed out!
+[19:09:54] [Server thread/INFO]: tivi0400 left the game
+[19:10:01] [User Authenticator #9/INFO]: UUID of player tivi0400 is 320e1cb9-0280-3aa6-940b-7eaf68730c4a
+[19:10:02] [Server thread/INFO]: tivi0400 joined the game
+[19:10:02] [Server thread/INFO]: tivi0400[/127.212.162.215:55363] logged in with entity id 30318 at ([world]35.15535859655086, 64.0, 108.8867130759064)
+[19:10:07] [Server thread/INFO]: elguatavo7u7159 issued server command: /lac changepass tivi0400 tivi0400
+[19:10:12] [Async Chat Thread - #2/INFO]: [Not Secure] <tivi0400> tivi1234
+[19:10:29] [Async Chat Thread - #2/INFO]: [Not Secure] <tivi0400> tivi1234
+[19:11:27] [Server thread/INFO]: elguatavo7u7159 issued server command: /effect clear tivi0400
+[19:11:27] [Server thread/INFO]: [elguatavo7u7159: Removed every effect from tivi0400]
+[19:11:34] [Server thread/INFO]: Grim » mechajuan3 failed Simulation (x120) .019694 /gl 1
+[19:11:36] [Server thread/INFO]: Grim » mechajuan3 failed Simulation (x160) .037249 /gl 2
+[19:11:38] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
+[19:11:38] [Server thread/INFO]: mechajuan3 left the game
+[19:11:49] [User Authenticator #10/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[19:11:51] [Server thread/INFO]: mechajuan3 joined the game
+[19:11:51] [Server thread/INFO]: mechajuan3[/127.241.198.181:37797] logged in with entity id 30852 at ([world]9.671430178455726, 67.0000001, -1.6805021097856583)
+[19:12:03] [User Authenticator #10/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[19:12:10] [Server thread/INFO]: MrCreeper_143 joined the game
+[19:12:10] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:49009] logged in with entity id 30943 at ([world]84.5, 64.0000001, 123.5)
+[19:14:07] [Netty Epoll Server IO #1/INFO]: [GrimAC] Disconnecting MrCreeper_143 for spamming invalid packets, packets cancelled within a second 101
+[19:14:07] [Netty Epoll Server IO #1/INFO]: [GrimAC] Disconnecting MrCreeper_143 for disconnect.closed
+[19:14:07] [Server thread/INFO]: MrCreeper_143 lost connection: disconnect.closed
+[19:14:07] [Server thread/INFO]: MrCreeper_143 left the game
+[19:14:22] [Server thread/INFO]: tivi0400 has made the advancement [A Seedy Place]
+[19:14:57] [User Authenticator #11/INFO]: UUID of player MrCreeper_143 is fb7e3101-b721-390f-b6ee-09a34b001dd2
+[19:14:59] [Server thread/INFO]: MrCreeper_143 joined the game
+[19:14:59] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:38093] logged in with entity id 32195 at ([world]86.25670622827548, 66.0, 124.02591746160505)
